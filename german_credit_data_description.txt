@@ -1,0 +1,653 @@
+Descripción del Dataset German Credit Data
+
+1. Título: German Credit Data (Datos de Crédito Alemán)
+
+2. Información sobre el origen
+
+Dataset Original:
+Profesor Dr. Hans Hofmann  
+Institut für Statistik und Ökonometrie  
+Universität Hamburg  
+FB Wirtschaftswissenschaften  
+Von-Melle-Park 5    
+2000 Hamburg 13 
+
+Fuente: https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
+
+
+3. Número de Instancias: 1.250 solicitudes de crédito
+
+
+4. Objetivo del Dataset
+
+Este dataset contiene información sobre solicitudes de crédito bancario en Alemania.
+El objetivo es predecir si un cliente representa un buen o mal riesgo crediticio
+basándose en diversos atributos financieros, demográficos y de comportamiento.
+
+
+5. Número de Atributos: 28 características + 1 variable objetivo (29 total)
+
+Variables numéricas: 13
+Variables categóricas: 15
+Variable objetivo: 1 (clasificación binaria)
+
+
+6. Descripción de los Atributos
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 1: status_account
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica
+Descripción: Estado de la cuenta corriente del solicitante
+Valores posibles:
+  - checking_below_0: Saldo inferior a 0 DM (cuenta en números rojos)
+  - checking_0_to_200: Saldo entre 0 y 200 DM
+  - checking_above_200: Saldo igual o superior a 200 DM, o asignación de salario
+    durante al menos 1 año
+  - no_checking_account: No posee cuenta corriente
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 2: duration
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Numérica (entera)
+Descripción: Duración del crédito solicitado
+Unidad: Meses
+Rango: 4 a 72 meses
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 3: credit_history
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica
+Descripción: Historial crediticio del solicitante
+Valores posibles:
+  - no_credits_all_paid: Sin créditos previos o todos los créditos pagados correctamente
+  - all_paid_this_bank: Todos los créditos en este banco pagados correctamente
+  - existing_paid_duly: Créditos existentes pagados correctamente hasta la fecha
+  - delay_in_past: Retrasos en pagos en el pasado
+  - critical_account: Cuenta crítica u otros créditos existentes (no en este banco)
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 4: purpose
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica
+Descripción: Propósito o finalidad del crédito solicitado
+Valores posibles:
+  - car_new: Automóvil nuevo
+  - car_used: Automóvil de segunda mano
+  - furniture_equipment: Muebles o equipamiento
+  - radio_television: Radio o televisión
+  - domestic_appliances: Electrodomésticos
+  - repairs: Reparaciones
+  - education: Educación o formación
+  - vacation: Vacaciones
+  - retraining: Reciclaje profesional
+  - business: Negocio
+  - others: Otros propósitos
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 5: credit_amount
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Numérica (entera)
+Descripción: Importe del crédito solicitado
+Unidad: Marcos Alemanes (DM)
+Rango: 250 a 18.424 DM
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 6: savings
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica
+Descripción: Saldo en cuenta de ahorro o bonos del solicitante
+Valores posibles:
+  - savings_below_100: Ahorros inferiores a 100 DM
+  - savings_100_to_500: Ahorros entre 100 y 500 DM
+  - savings_500_to_1000: Ahorros entre 500 y 1.000 DM
+  - savings_above_1000: Ahorros iguales o superiores a 1.000 DM
+  - no_savings_account: Sin cuenta de ahorros o desconocido
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 7: employment_since
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica (ordinal)
+Descripción: Antigüedad en el empleo actual
+Valores posibles (ordenados):
+  - unemployed: Desempleado
+  - employed_below_1yr: Empleado menos de 1 año
+  - employed_1_to_4yr: Empleado entre 1 y 4 años
+  - employed_4_to_7yr: Empleado entre 4 y 7 años
+  - employed_above_7yr: Empleado 7 años o más
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 8: installment_rate
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Numérica (entera)
+Descripción: Tasa de pago a plazos como porcentaje del ingreso disponible
+Unidad: Porcentaje
+Rango: 1 a 4
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 9: personal_status
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica
+Descripción: Estado civil y género del solicitante
+Valores posibles:
+  - male_divorced_separated: Hombre divorciado o separado
+  - female_divorced_married: Mujer divorciada, separada o casada
+  - male_single: Hombre soltero
+  - male_married_widowed: Hombre casado o viudo
+  - female_single: Mujer soltera
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 10: other_debtors
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica
+Descripción: Presencia de otros deudores o avalistas
+Valores posibles:
+  - none: Sin co-deudores ni avalistas
+  - co_applicant: Co-solicitante
+  - guarantor: Avalista o garante
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 11: residence_since
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Numérica (entera)
+Descripción: Tiempo de residencia en el domicilio actual
+Unidad: Años
+Rango: 1 a 4 años
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 12: property
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica
+Descripción: Tipo de propiedad o activos del solicitante
+Valores posibles:
+  - real_estate: Bienes inmuebles
+  - building_society_savings: Ahorros en sociedad de construcción o seguro de vida
+  - car_or_other: Automóvil u otros bienes
+  - no_property: Sin propiedades o desconocido
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 13: age
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Numérica (entera)
+Descripción: Edad del solicitante
+Unidad: Años
+Rango: 19 a 75 años
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 14: other_installments
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica
+Descripción: Otros planes de pago a plazos activos
+Valores posibles:
+  - installment_bank: Planes de pago en banco
+  - installment_stores: Planes de pago en comercios
+  - no_installment: Sin otros planes de pago a plazos
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 15: housing
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica
+Descripción: Situación de vivienda del solicitante
+Valores posibles:
+  - rent: Vivienda alquilada
+  - own: Vivienda en propiedad
+  - for_free: Vivienda gratuita (cedida)
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 16: num_credits
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Numérica (entera)
+Descripción: Número de créditos existentes en este banco
+Rango: 1 a 4
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 17: job
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica (ordinal)
+Descripción: Tipo y nivel de cualificación del empleo
+Valores posibles (ordenados por cualificación):
+  - unemployed_unskilled: Desempleado o sin cualificación - no residente
+  - unskilled_resident: Sin cualificación - residente
+  - skilled_employee: Empleado cualificado o funcionario
+  - highly_qualified: Directivo, autónomo, altamente cualificado u oficial
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 18: num_liable
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Numérica (entera)
+Descripción: Número de personas a cargo (dependientes económicos)
+Rango: 1 a 2
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 19: telephone
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica
+Descripción: Disponibilidad de teléfono registrado
+Valores posibles:
+  - no_telephone: Sin teléfono
+  - has_telephone: Teléfono registrado a nombre del cliente
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 20: foreign_worker
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica
+Descripción: Condición de trabajador extranjero
+Valores posibles:
+  - foreign_worker_yes: Es trabajador extranjero
+  - foreign_worker_no: No es trabajador extranjero
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 21: target (VARIABLE OBJETIVO)
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica (binaria)
+Descripción: Clasificación del riesgo crediticio del solicitante
+Valores posibles:
+  - good_client: Cliente de bajo riesgo (buen crédito)
+  - bad_client: Cliente de alto riesgo (mal crédito)
+
+Nota: Esta es la variable a predecir en los modelos de clasificación.
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 22: payment_behavior
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica (ordinal)
+Descripción: Comportamiento histórico de pago del solicitante
+Valores posibles (ordenados de mejor a peor):
+  - payment_excellent: Historial de pago excelente
+  - payment_good: Historial de pago bueno
+  - payment_fair: Historial de pago aceptable
+yment_poor: Historial  - pa de pago deficiente
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 23: debt_to_income_ratio
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Numérica (continua)
+Descripción: Ratio entre los pagos de deuda y el ingreso disponible
+Unidad: Ratio (0.0 a 1.0)
+Interpretación: Valores más altos indican mayor carga de deuda
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 24: num_previous_loans
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Numérica (entera)
+Descripción: Número de préstamos previos finalizados
+Rango: 0 a 10
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 25: monthly_income
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Numérica (entera)
+Descripción: Ingreso mensual estimado del solicitante
+Unidad: Marcos Alemanes (DM)
+Rango: 500 a 15.000 DM
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 26: credit_duration_ratio
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Numérica (continua)
+Descripción: Ratio entre el importe del crédito y su duración
+Cálculo: credit_amount / duration
+Interpretación: Representa el pago mensual promedio
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 27: age_employment_interaction
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Numérica (continua)
+Descripción: Término de interacción entre edad y antigüedad en el empleo
+Interpretación: Combina información de edad y estabilidad laboral
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 28: bmi
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Numérica (continua)
+Descripción: Índice de Masa Corporal del solicitante
+Fórmula: peso (kg) / altura (m)²
+Rango: 17.0 a 38.0
+Interpretación: Indicador estándar de salud. El rango normal se considera
+               entre 18.5 y 24.9
+
+
+═══════════════════════════════════════════════════════════════════════════
+ATRIBUTO 29: gender
+═══════════════════════════════════════════════════════════════════════════
+Tipo: Categórica
+Descripción: Género del solicitante
+Valores posibles:
+  - Male: Hombre
+  - Female: Mujer
+
+
+7. Valores Faltantes
+
+Los valores faltantes están codificados como '?' en el dataset.
+
+Recomendaciones de tratamiento:
+- Identificar el patrón y frecuencia de valores faltantes en cada variable
+- Evaluar si las filas con múltiples valores faltantes deben ser eliminadas
+- Considerar diferentes estrategias de imputación según el tipo de variable:
+  * Variables numéricas: media, mediana, KNN imputation, MICE
+  * Variables categóricas: moda, categoría "unknown", imputación basada en modelos
+- Validar el impacto de la estrategia de imputación en el rendimiento del modelo
+
+
+8. Valores Atípicos (Outliers)
+
+Recomendaciones de tratamiento:
+- Detectar outliers mediante métodos estadísticos:
+  * Z-score (valores con |z| > 3)
+  * Rango Intercuartílico (IQR): valores fuera de [Q1-1.5*IQR, Q3+1.5*IQR]
+  * Visualización: diagramas de caja (boxplots), gráficos de dispersión
+- Métodos basados en modelos: Isolation Forest, Local Outlier Factor (LOF)
+- Opciones de tratamiento:
+  * Clipping o Winsorización: limitar valores a percentiles específicos
+  * Transformaciones: logarítmica, raíz cuadrada, Box-Cox
+  * Eliminación: sólo si se confirma que son errores de medición
+  * Mantener: si representan casos legítimos aunque extremos
+- Validar decisiones considerando el contexto del problema
+
+
+9. Ingeniería de Características
+
+El dataset ofrece oportunidades para crear nuevas características:
+- Ratios entre variables financieras
+- Discretización de variables continuas en categorías
+- Términos de interacción entre variables relacionadas
+- Características polinómicas para capturar relaciones no lineales
+- Agregaciones basadas en agrupaciones categóricas
+
+
+10. Matriz de Costes
+
+Este problema requiere considerar los costes de clasificación errónea:
+
+                    Predicción
+                    Bueno   Malo
+Real    Bueno        0       1
+        Malo         5       0
+
+Interpretación:
+- Clasificar un cliente malo como bueno (Falso Negativo) cuesta 5 unidades
+- Clasificar un cliente bueno como malo (Falso Positivo) cuesta 1 unidad
+- Es 5 veces más costoso aprobar un crédito a un mal cliente que rechazar
+  un crédito a un buen cliente
+
+Recomendación: Considerar enfoques de aprendizaje sensible a costes o ajuste
+de umbrales de decisión.
+
+
+11. Distribución de Clases
+
+El dataset presenta desbalanceo de clases:
+- Clientes buenos (bajo riesgo): aproximadamente 70% de los casos
+- Clientes malos (alto riesgo): aproximadamente 30% de los casos
+- Ratio de desbalanceo: aproximadamente 2.3:1
+
+Estrategias para abordar el desbalanceo:
+- Remuestreo: SMOTE, ADASYN (sobremuestreo) o submuestreo aleatorio
+- A nivel de algoritmo: ajustar pesos de clases en el entrenamiento
+- Métodos de ensemble: balanced bagging, EasyEnsemble
+- Ajuste de umbral: modificar el umbral de decisión para la clasificación
+- Métricas de evaluación: utilizar F1-score, ROC-AUC, precision-recall en lugar
+  de accuracy únicamente
+
+
+12. Pipeline de Preprocesado Recomendado
+
+1. Exploración de Datos
+   - Análisis estadístico descriptivo de todas las variables ok
+   - Identificación de problemas de calidad de datos ok
+   - Visualización de distribuciones y relaciones ok
+   - Análisis de correlaciones ok
+
+2. Tratamiento de Valores Faltantes Si
+   - Cuantificar el patrón de valores faltantes ok
+   - Decidir estrategia de eliminación vs imputación ok
+   - Aplicar métodos de imputación apropiados ok
+   - Documentar las decisiones tomadas ok
+
+3. Gestión de Valores Atípicos 
+   - Detectar outliers con múltiples métodos
+   - Decidir tratamiento basándose en el contexto
+   - Aplicar transformaciones si es necesario
+   - Validar el impacto en las distribuciones
+
+4. Ingeniería de Características
+   - Crear características derivadas significativas
+   - Combinar variables relacionadas mediante interacciones
+   - Codificar patrones específicos del dominio
+
+5. Codificación de Variables Categóricas Si
+   - One-Hot Encoding para variables nominales
+   - Ordinal Encoding para variables con orden natural
+   - Considerar Target Encoding para alta cardinalidad
+   - Manejar categorías raras o poco frecuentes
+
+6. Escalado de Características
+   - Aplicar escalado apropiado según el algoritmo:
+     * StandardScaler para algoritmos basados en distancia (SVM, KNN, Regresión Logística)
+     * MinMaxScaler para redes neuronales o cuando se requiere rango acotado
+     * RobustScaler si persisten outliers después del tratamiento
+   - Los algoritmos basados en árboles generalmente no requieren escalado
+
+7. Selección de Características
+   - Eliminar características redundantes o altamente correlacionadas
+   - Utilizar tests estadísticos (chi-cuadrado, ANOVA, información mutua)
+   - Aplicar métodos wrapper (RFE) o embedded (Lasso, importancia de árboles)
+   - Validar la selección con validación cruzada
+
+8. Manejo del Desbalanceo de Clases
+   - Elegir técnica de remuestreo apropiada
+   - Configurar pesos de clases en los algoritmos
+   - Validar con validación cruzada estratificada
+
+9. Construcción del Pipeline
+   - Utilizar sklearn.pipeline.Pipeline para prevenir data leakage
+   - Asegurar que fit() se aplica sólo en datos de entrenamiento
+   - Aplicar transform() tanto en entrenamiento como en test
+   - Incluir todos los pasos de preprocesado en el pipeline
+
+
+13. Algoritmos Apropiados
+
+Este dataset es adecuado para diversos algoritmos de clasificación:
+
+Métodos Tradicionales:
+- Regresión Logística (línea base, interpretable)
+- k-Vecinos más Cercanos (k-NN)
+- Naïve Bayes (clasificador probabilístico)
+
+Métodos Basados en Árboles:
+- Árboles de Decisión (interpretables, manejan no linealidad)
+- Random Forest (ensemble robusto)
+- Gradient Boosting (XGBoost, LightGBM, CatBoost)
+
+Máquinas de Vectores de Soporte:
+- SVM Lineal
+- SVM con kernel RBF
+- SVM con kernel polinómico
+
+Métodos Ensemble:
+- Variantes de bagging y boosting
+- Clasificadores de stacking y voting
+
+
+14. Métricas de Evaluación
+
+Dada la matriz de costes y el desbalanceo de clases, las métricas apropiadas incluyen:
+
+Métricas Principales:
+- Accuracy ponderado por costes (considerando el ratio 5:1)
+- F1-Score (especialmente para la clase minoritaria)
+- ROC-AUC (capacidad de discriminación general)
+- Precision-Recall AUC (mejor para datos desbalanceados)
+
+Métricas Secundarias:
+- Matriz de Confusión (análisis detallado de errores)
+- Precisión y Recall (por clase)
+- Especificidad y Sensibilidad
+- Coeficiente de Correlación de Matthews
+
+Importante: La accuracy estándar por sí sola es insuficiente para este dataset desbalanceado.
+
+
+15. Estrategia de Validación Cruzada
+
+Enfoque recomendado:
+- Stratified K-Fold (k=5 o k=10)
+- Mantiene la distribución de clases en cada fold
+- Proporciona estimaciones robustas del rendimiento
+- Esencial para datasets desbalanceados
+
+
+16. Consideraciones Éticas
+
+Varias características contienen información sensible:
+- personal_status: Contiene género y estado civil
+- gender: Característica protegida en muchas jurisdicciones
+- foreign_worker: El origen nacional es una característica protegida
+
+Recomendaciones:
+- Analizar el modelo en busca de sesgos y discriminación
+- Considerar métricas de equidad entre grupos demográficos
+- Evaluar si las características sensibles deben ser excluidas
+- Asegurar el cumplimiento de la normativa local (ej. RGPD, leyes de igualdad)
+- Documentar las decisiones relacionadas con características sensibles
+
+
+17. Resumen del Diccionario de Datos
+
+Total de atributos: 29
+
+Características numéricas: 13
+  - duration, credit_amount, installment_rate, residence_since, age,
+    num_credits, num_liable, debt_to_income_ratio, num_previous_loans,
+    monthly_income, credit_duration_ratio, age_employment_interaction, bmi
+
+Características categóricas: 15
+  - status_account, credit_history, purpose, savings, employment_since,
+    personal_status, other_debtors, property, other_installments, housing,
+    job, telephone, foreign_worker, payment_behavior, gender
+
+Variable objetivo: 1
+  - target: good_client / bad_client (clasificación binaria)
+
+
+18. Información sobre la Versión
+
+Versión del dataset: v3.0
+Fecha: Noviembre 2025
+Propósito: Educación en Machine Learning - preprocesado y clasificación integral
+Tamaño: 1.250 instancias, 29 características
+
+
+19. Referencias
+
+Dataset Original:
+Hofmann, H. (1994). Statlog (German Credit Data). 
+UCI Machine Learning Repository.
+https://doi.org/10.24432/C5NC77
+
+Lecturas Recomendadas:
+- "Hands-On Machine Learning with Scikit-Learn and TensorFlow" - Aurélien Géron
+- "Feature Engineering for Machine Learning" - Alice Zheng & Amanda Casari
+- "Learning from Imbalanced Data Sets" - Alberto Fernández et al.
+
+
+20. Notas de Uso
+
+Este dataset está diseñado para fines educativos en cursos de Machine Learning.
+Proporciona oportunidades para practicar:
+- Preprocesado integral de datos
+- Ingeniería y selección de características
+- Manejo de valores faltantes y outliers
+- Gestión de desbalanceo de clases
+- Aprendizaje sensible a costes
+- Múltiples algoritmos de clasificación
+- Evaluación y comparación de modelos
+- Consideraciones éticas en IA
+
+El dataset contiene problemas realistas de calidad de datos para simular
+escenarios del mundo real.
+
+
+21. Formato del Archivo
+
+- Nombre del archivo: german_credit_data.txt
+- Formato: Texto plano, valores separados por espacios
+- Codificación: UTF-8
+- Valores faltantes: Marcados como '?'
+- Valores categóricos: En formato textual descriptivo (no códigos numéricos)
+
+
+22. Cómo Cargar el Dataset
+
+Ejemplo de código Python para cargar el dataset:
+
+import pandas as pd
+import numpy as np
+
+# Leer el archivo
+data = []
+with open('german_credit_data.txt', 'r') as f:
+    for line in f:
+        data.append(line.strip().split())
+
+# Nombres de columnas
+col_names = [
+    'status_account', 'duration', 'credit_history', 'purpose', 'credit_amount',
+    'savings', 'employment_since', 'installment_rate', 'personal_status',
+    'other_debtors', 'residence_since', 'property', 'age', 'other_installments',
+    'housing', 'num_credits', 'job', 'num_liable', 'telephone', 'foreign_worker',
+    'target', 'payment_behavior', 'debt_to_income_ratio', 'num_previous_loans',
+    'monthly_income', 'credit_duration_ratio', 'age_employment_interaction',
+    'bmi', 'gender'
+]
+
+# Crear DataFrame
+df = pd.DataFrame(data, columns=col_names)
+
+# Reemplazar '?' con NaN
+df = df.replace('?', np.nan)
+
+# Identificar y convertir columnas numéricas
+numeric_cols = ['duration', 'credit_amount', 'installment_rate', 'residence_since',
+                'age', 'num_credits', 'num_liable', 'debt_to_income_ratio',
+                'num_previous_loans', 'monthly_income', 'credit_duration_ratio',
+                'age_employment_interaction', 'bmi']
+
+for col in numeric_cols:
+    df[col] = pd.to_numeric(df[col], errors='coerce')
+
+print(f"Dataset cargado: {df.shape}")
+
+
+============================================================================
+FIN DE LA DOCUMENTACIÓN
+============================================================================

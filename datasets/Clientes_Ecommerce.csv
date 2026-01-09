@@ -1,0 +1,1001 @@
+ciudad,codigo_postal,educacion,satisfaccion,tiene_premium,metodo_pago,edad,gasto_mensual,cliente_activo
+Barcelona,CP0046,Universidad,Alto,No,PayPal,37,351.169608129646,1
+Bilbao,CP0011,Secundaria,Medio,No,Tarjeta,42,416.75689250426666,0
+Valencia,CP0061,Bachillerato,Muy alto,Si,Tarjeta,45,167.30382098326712,1
+Valencia,CP0079,Primaria,Muy bajo,Si,Efectivo,29,183.60305342061935,0
+Madrid,CP0087,Bachillerato,Bajo,No,Tarjeta,19,50.282382482805275,1
+Madrid,CP0082,Universidad,Bajo,Si,Tarjeta,60,483.39235890401113,1
+Madrid,CP0007,Bachillerato,Muy alto,Si,Efectivo,31,462.89520256835516,1
+Sevilla,CP0094,Universidad,Muy bajo,No,Efectivo,39,394.05571869174366,1
+Valencia,CP0020,Universidad,Alto,No,Tarjeta,48,85.58420943949164,1
+Valencia,CP0080,Posgrado,Medio,No,Tarjeta,40,251.37630036477867,0
+Madrid,CP0086,Secundaria,Muy bajo,No,Tarjeta,65,95.85128928719877,0
+Bilbao,CP0079,Bachillerato,Bajo,No,Tarjeta,37,57.164120268259374,1
+Sevilla,CP0069,Secundaria,Muy alto,Si,Tarjeta,55,327.2823343456688,1
+Madrid,CP0071,Posgrado,Muy alto,Si,Tarjeta,21,482.3732376860848,1
+Madrid,CP0024,Posgrado,Medio,No,Tarjeta,32,456.29061054446754,1
+Madrid,CP0081,Bachillerato,Muy alto,No,PayPal,41,363.53966672093196,0
+Barcelona,CP0088,Universidad,Muy alto,No,Efectivo,42,93.48826287419215,1
+Barcelona,CP0011,Bachillerato,Muy bajo,Si,Transferencia,18,173.37381695253507,0
+Barcelona,CP0014,Universidad,Alto,No,Tarjeta,24,194.02552709838093,0
+Madrid,CP0058,Primaria,Medio,No,Tarjeta,48,393.41752598550255,0
+Valencia,CP0025,Universidad,Muy bajo,No,Tarjeta,29,411.01213065580134,1
+Madrid,CP0025,Secundaria,Alto,No,Tarjeta,59,223.2977553454642,0
+Madrid,CP0046,Universidad,Muy bajo,No,Tarjeta,22,238.04779847792435,1
+Barcelona,CP0031,Universidad,Muy bajo,No,Transferencia,61,70.0290676742771,0
+Barcelona,CP0009,Universidad,Muy alto,No,Efectivo,67,180.11152328844244,1
+Sevilla,CP0015,Primaria,Alto,No,Efectivo,59,253.07832972993796,1
+Madrid,CP0070,Bachillerato,Medio,No,Tarjeta,55,102.6423708733659,0
+Barcelona,CP0016,Secundaria,Medio,No,PayPal,29,253.9703573397596,1
+Valencia,CP0022,Bachillerato,Alto,No,Tarjeta,56,433.92911551601014,0
+Madrid,CP0025,Primaria,Muy alto,No,Tarjeta,35,311.594458876274,0
+Valencia,CP0084,Posgrado,,Si,Tarjeta,19,85.51843476728556,0
+Madrid,CP0085,Universidad,Muy bajo,No,Transferencia,27,136.25209347362346,1
+Madrid,CP0006,Bachillerato,Muy alto,No,PayPal,32,263.5449575713503,1
+Bilbao,CP0013,Bachillerato,Alto,No,Tarjeta,47,212.66921741981542,0
+Bilbao,CP0078,Bachillerato,Muy bajo,No,PayPal,61,211.42715879574445,0
+Sevilla,CP0006,Universidad,Medio,No,,34,288.17035166461557,0
+Barcelona,CP0008,Bachillerato,Bajo,Si,Tarjeta,21,312.97816471525584,1
+Madrid,CP0047,Posgrado,Medio,No,Tarjeta,24,408.587706624286,1
+Valencia,CP0071,Bachillerato,Alto,No,Tarjeta,58,203.4349535581181,0
+Barcelona,CP0058,Posgrado,Muy bajo,No,PayPal,48,412.45982736826403,0
+Madrid,CP0086,Universidad,Alto,No,Tarjeta,68,202.37505310068462,1
+Barcelona,CP0092,Secundaria,Muy bajo,No,Transferencia,56,74.94484502355522,0
+Madrid,CP0081,Posgrado,Muy alto,No,Tarjeta,51,299.38444295215606,1
+Bilbao,CP0094,Secundaria,Bajo,Si,Transferencia,23,314.55604620266655,1
+Madrid,CP0093,Universidad,Muy alto,No,Tarjeta,67,470.54311052983707,1
+Valencia,CP0038,Bachillerato,Muy alto,No,Efectivo,55,376.7275967281135,0
+Barcelona,CP0098,Universidad,Alto,No,Transferencia,62,462.99769362249776,0
+Barcelona,CP0017,Universidad,Bajo,No,Transferencia,68,458.7562446093543,0
+Barcelona,CP0058,Universidad,Muy bajo,No,PayPal,51,322.05834961620894,1
+Madrid,CP0016,Universidad,Muy bajo,Si,Tarjeta,61,287.4929294014014,1
+Bilbao,CP0013,Bachillerato,Medio,No,Efectivo,32,300.84843522361996,1
+Sevilla,CP0030,Primaria,Muy bajo,No,Tarjeta,31,490.2488634547615,0
+Bilbao,CP0023,Bachillerato,Alto,No,Tarjeta,23,397.9254612861315,0
+Sevilla,CP0098,Secundaria,Muy alto,No,Efectivo,67,97.81965715657813,1
+Valencia,CP0059,Universidad,Muy alto,Si,Tarjeta,54,400.29278305162995,1
+Bilbao,CP0044,Bachillerato,Muy alto,Si,Efectivo,67,126.74212200420165,0
+Madrid,CP0097,Posgrado,Bajo,No,PayPal,49,251.30774705253154,1
+Madrid,CP0002,Universidad,Muy bajo,No,Tarjeta,20,144.70685247944044,0
+Madrid,CP0036,Universidad,Alto,Si,Efectivo,20,360.3123794899534,1
+Barcelona,CP0042,Secundaria,Bajo,No,Tarjeta,39,444.78938128686605,0
+Barcelona,CP0039,Universidad,Medio,No,Tarjeta,39,180.66284841500644,0
+Madrid,CP0089,Posgrado,Alto,No,Tarjeta,27,86.90483354368443,0
+Sevilla,CP0054,Bachillerato,Alto,No,PayPal,68,184.32189413373348,1
+Barcelona,CP0086,Universidad,Alto,Si,PayPal,20,352.56283606948745,1
+Madrid,CP0038,Universidad,Muy alto,Si,PayPal,29,197.9420573995025,1
+Barcelona,CP0014,Secundaria,Alto,No,PayPal,46,175.15047539921153,0
+Madrid,CP0003,Bachillerato,Muy bajo,No,Tarjeta,65,132.99583576291923,1
+Sevilla,CP0092,Bachillerato,Alto,No,Tarjeta,34,273.8823920934951,1
+Madrid,CP0085,Secundaria,Muy alto,No,Efectivo,24,174.17697267073441,1
+Bilbao,CP0024,Bachillerato,Alto,No,Tarjeta,30,378.9546571127674,0
+Sevilla,CP0012,Primaria,Medio,No,Tarjeta,19,84.48008089649122,1
+Madrid,CP0081,Primaria,Medio,No,Tarjeta,21,348.8148649000929,1
+Madrid,CP0032,Secundaria,Muy alto,No,Efectivo,27,156.90200655549643,0
+Sevilla,CP0015,Posgrado,Muy bajo,No,Efectivo,56,270.17566747322144,0
+Valencia,CP0041,Bachillerato,Muy bajo,Si,Tarjeta,41,178.74046491406727,0
+Valencia,CP0065,Posgrado,,No,Tarjeta,34,375.24590420485805,0
+Sevilla,CP0054,Bachillerato,Muy alto,Si,Efectivo,69,475.38816811323653,1
+Madrid,CP0098,Bachillerato,Alto,No,Efectivo,23,462.68455076141595,1
+Barcelona,CP0041,Bachillerato,Muy alto,No,,36,312.541796814841,1
+Madrid,CP0033,Bachillerato,Bajo,No,Transferencia,22,258.1746364656403,0
+Sevilla,CP0029,Secundaria,Muy alto,No,Tarjeta,49,418.2352292477218,0
+Valencia,CP0012,Universidad,Muy alto,Si,Tarjeta,27,357.4968631824785,1
+Barcelona,CP0012,Secundaria,Bajo,Si,Transferencia,26,132.6038513976198,0
+Madrid,CP0017,Universidad,Muy bajo,No,Efectivo,44,419.4136461258501,1
+Barcelona,CP0031,Universidad,Alto,Si,Tarjeta,30,242.99797522761958,0
+Barcelona,CP0095,Secundaria,Bajo,No,Efectivo,36,135.0435469870288,0
+Valencia,CP0098,Primaria,Medio,No,Efectivo,38,176.8088076784216,1
+Valencia,CP0038,Universidad,Muy bajo,No,Transferencia,41,170.38716361175406,1
+Sevilla,CP0045,Bachillerato,Medio,No,Transferencia,55,283.6431385715571,0
+Barcelona,CP0028,Primaria,Muy bajo,Si,Efectivo,21,155.46654080504396,0
+Madrid,CP0061,Posgrado,Alto,No,Tarjeta,41,105.60491933070927,0
+Valencia,CP0092,Primaria,Alto,No,Tarjeta,52,105.66088277619232,0
+Sevilla,CP0061,Universidad,Muy alto,Si,Tarjeta,20,312.4742887125935,1
+Valencia,CP0056,Posgrado,Medio,No,Tarjeta,21,380.64167998222035,1
+Sevilla,CP0015,Secundaria,Muy bajo,Si,Efectivo,54,194.68985397725336,1
+Barcelona,CP0055,Secundaria,Alto,No,Efectivo,57,65.59281941630769,0
+Barcelona,CP0009,Secundaria,Bajo,No,Tarjeta,65,107.25119912165482,1
+Barcelona,CP0029,Bachillerato,Alto,Si,Tarjeta,52,461.6125521516757,0
+Madrid,CP0024,Secundaria,Bajo,No,Tarjeta,48,272.0946468152539,1
+Madrid,CP0083,Universidad,Muy bajo,No,Tarjeta,61,254.10776432682866,1
+Madrid,CP0004,Primaria,Alto,No,Transferencia,42,67.12213023954091,1
+Valencia,CP0064,Bachillerato,Alto,No,Tarjeta,57,377.8866600426046,0
+Barcelona,CP0093,Posgrado,Muy bajo,No,,30,287.6306364194355,1
+Barcelona,CP0048,Universidad,Alto,Si,PayPal,21,140.93642123893434,0
+Bilbao,CP0002,Universidad,Bajo,No,Tarjeta,63,99.53319208147573,0
+Madrid,CP0044,Bachillerato,Alto,Si,,31,222.52453863439933,0
+Barcelona,CP0013,Universidad,Medio,No,Tarjeta,30,426.72288388776155,0
+Sevilla,CP0029,Bachillerato,Muy alto,No,Efectivo,44,439.38255164046103,1
+Madrid,CP0067,Bachillerato,Bajo,No,Efectivo,23,321.2808711780364,0
+Madrid,CP0017,Secundaria,Medio,No,,34,377.3913922535642,1
+Madrid,CP0061,Universidad,Muy bajo,Si,Efectivo,53,101.82010433129166,1
+Madrid,CP0036,Bachillerato,Bajo,No,PayPal,57,314.6567294605347,1
+Bilbao,CP0024,Secundaria,Muy alto,Si,Tarjeta,66,350.13456656923177,0
+Sevilla,CP0047,Bachillerato,Muy alto,Si,Tarjeta,52,140.32077931120648,0
+Valencia,CP0064,Bachillerato,Muy bajo,Si,PayPal,34,446.0696298096165,0
+Sevilla,CP0052,Universidad,Muy bajo,No,Efectivo,58,137.74853188445888,0
+Sevilla,CP0078,Universidad,Bajo,Si,PayPal,19,191.0648119309027,0
+Madrid,CP0072,Universidad,Alto,Si,Efectivo,30,329.25058116055635,1
+Sevilla,CP0014,Primaria,Muy bajo,Si,Transferencia,69,337.25752930882885,0
+Barcelona,CP0048,Bachillerato,Alto,Si,Tarjeta,19,364.72313344431524,1
+Sevilla,CP0087,Bachillerato,Medio,No,Transferencia,69,100.40527088069256,0
+Sevilla,CP0067,Primaria,Muy alto,No,PayPal,45,432.2589934678499,0
+Barcelona,CP0011,Secundaria,Alto,No,Efectivo,60,289.7812095274669,0
+Madrid,CP0058,Universidad,Muy alto,No,,43,262.0948073472807,1
+Madrid,CP0036,Secundaria,Alto,Si,Tarjeta,39,491.4939310310793,1
+Barcelona,CP0060,Bachillerato,Medio,No,Tarjeta,64,383.1702336234589,0
+Sevilla,CP0042,Secundaria,Muy bajo,No,Tarjeta,60,103.1027119787187,1
+Sevilla,CP0069,Primaria,Medio,Si,Tarjeta,20,390.4426252518083,0
+Madrid,CP0038,Secundaria,,Si,Efectivo,52,92.86202028779127,1
+Barcelona,CP0055,Posgrado,Muy bajo,Si,Efectivo,29,62.361753130843184,0
+Barcelona,CP0062,Universidad,Muy alto,Si,Tarjeta,41,231.6316528714537,1
+Madrid,CP0045,Posgrado,Medio,No,Efectivo,22,497.1101777686484,1
+Madrid,CP0087,Bachillerato,Alto,No,Tarjeta,37,128.69777128768817,1
+Barcelona,CP0010,Secundaria,Medio,Si,Tarjeta,56,352.6899545870555,0
+Bilbao,CP0061,Bachillerato,Muy alto,Si,Tarjeta,56,128.0282297927537,1
+Barcelona,CP0076,Bachillerato,Muy bajo,No,Efectivo,30,376.15413873127375,1
+Barcelona,CP0097,Universidad,Muy alto,Si,Tarjeta,58,277.40915070702175,0
+Valencia,CP0024,Primaria,Bajo,No,Tarjeta,62,355.98726954021936,0
+Barcelona,CP0070,Bachillerato,Bajo,No,Tarjeta,29,141.29292916140557,0
+Bilbao,CP0051,Secundaria,Alto,Si,Transferencia,30,385.53274963422587,1
+Bilbao,CP0003,Bachillerato,Muy alto,Si,Tarjeta,27,498.028576830218,0
+Madrid,CP0058,Universidad,Alto,No,Efectivo,50,349.5427252816819,1
+Barcelona,CP0071,Bachillerato,Alto,No,Efectivo,57,272.06599913279496,0
+Barcelona,CP0019,Bachillerato,Bajo,No,Transferencia,33,465.42829487866913,1
+Madrid,CP0092,Bachillerato,Alto,No,PayPal,62,57.13332900434433,0
+Madrid,CP0062,Bachillerato,Bajo,Si,Tarjeta,52,378.4655836786195,1
+Valencia,CP0053,Universidad,Muy bajo,No,Tarjeta,20,449.9359325662158,1
+Barcelona,CP0073,Universidad,,No,PayPal,22,77.75356262943086,0
+Madrid,CP0097,Posgrado,Alto,Si,Tarjeta,43,252.52887668709118,1
+Madrid,CP0056,Universidad,Bajo,No,Efectivo,28,142.12375427749953,1
+Bilbao,CP0089,Bachillerato,Medio,Si,Efectivo,24,304.93317451452356,0
+Madrid,CP0040,Universidad,Alto,No,,27,342.2943313716472,1
+Madrid,CP0002,Bachillerato,Muy bajo,Si,PayPal,59,186.18043231793976,0
+Barcelona,CP0005,Secundaria,Muy bajo,No,PayPal,69,256.99175135514537,0
+Bilbao,CP0004,Universidad,Medio,No,Transferencia,51,175.70276837445178,1
+Madrid,CP0004,Primaria,Bajo,No,Tarjeta,20,216.2260240048012,0
+Valencia,CP0053,Posgrado,Alto,Si,PayPal,25,121.79298050979061,1
+Sevilla,CP0046,Bachillerato,Bajo,No,Tarjeta,48,448.5017496135342,1
+Madrid,CP0086,Universidad,Muy bajo,No,Tarjeta,28,54.50468475161139,0
+Valencia,CP0048,Universidad,Bajo,No,PayPal,62,447.08413389970485,0
+Barcelona,CP0008,Universidad,Muy bajo,No,Tarjeta,24,307.25549525738234,0
+Valencia,CP0098,Universidad,Bajo,No,Tarjeta,62,199.24602987965787,1
+Valencia,CP0019,Universidad,Medio,No,Tarjeta,19,375.3757064571484,1
+Barcelona,CP0060,Primaria,Muy alto,No,PayPal,23,278.4884683381989,0
+Madrid,CP0034,Bachillerato,Medio,No,Efectivo,58,274.5988961484229,1
+Sevilla,CP0049,Secundaria,Medio,No,Efectivo,49,99.5640273135349,0
+Barcelona,CP0081,Universidad,Muy alto,No,Tarjeta,37,225.2822116754339,1
+Madrid,CP0061,Bachillerato,Muy alto,No,Transferencia,51,158.4789556355315,1
+Madrid,CP0016,Universidad,Alto,No,Transferencia,67,57.06315751832584,1
+Valencia,CP0087,Primaria,Alto,No,Tarjeta,33,212.04483385195098,1
+Valencia,CP0002,Primaria,Medio,Si,Tarjeta,42,90.41995824152214,1
+Madrid,CP0031,Universidad,Medio,No,Tarjeta,29,165.57351697633334,1
+Barcelona,CP0098,Primaria,Muy bajo,No,PayPal,24,91.6324795323925,0
+Madrid,CP0012,Primaria,Muy bajo,No,Efectivo,56,95.42373150037949,1
+Valencia,CP0088,Primaria,Alto,No,PayPal,34,139.55508248683472,0
+Madrid,CP0072,Posgrado,Alto,No,Tarjeta,62,499.9321600188801,0
+Valencia,CP0067,Universidad,Muy bajo,No,Transferencia,28,50.98286428576195,0
+Barcelona,CP0013,Bachillerato,Muy bajo,No,Transferencia,23,337.40268625418236,0
+Bilbao,CP0097,Secundaria,Bajo,No,Efectivo,40,113.55966411195081,1
+Madrid,CP0010,Bachillerato,Bajo,No,PayPal,44,464.2826615198491,1
+Barcelona,CP0055,Universidad,Muy bajo,No,Tarjeta,63,92.13480200013316,0
+Madrid,CP0066,Universidad,Bajo,No,Tarjeta,23,479.7784342068064,1
+Bilbao,CP0091,Secundaria,Muy alto,Si,Efectivo,55,324.9168743675651,0
+Sevilla,CP0028,Secundaria,Alto,Si,Transferencia,19,50.57063461197061,0
+Madrid,CP0008,Primaria,Alto,No,Efectivo,39,452.30323906256274,0
+Valencia,CP0066,Universidad,Muy bajo,Si,Tarjeta,37,284.7703106151132,1
+Sevilla,CP0024,Universidad,Medio,No,Efectivo,42,168.20138089871804,0
+Valencia,CP0097,Secundaria,Muy bajo,No,,32,395.27562988203357,1
+Barcelona,CP0075,Primaria,Bajo,No,Tarjeta,66,466.9994992490915,0
+Madrid,CP0041,Primaria,Medio,No,Efectivo,46,267.66087041605726,1
+Madrid,CP0008,Posgrado,Bajo,Si,Transferencia,25,191.9990634993999,0
+Sevilla,CP0078,Secundaria,Muy alto,No,Tarjeta,54,405.02530577071707,0
+Bilbao,CP0039,Universidad,Bajo,No,Tarjeta,66,356.80347400480457,0
+Valencia,CP0024,Universidad,Muy alto,No,Tarjeta,69,449.9386176876226,0
+Barcelona,CP0004,Bachillerato,Muy alto,Si,Tarjeta,50,361.6313057425368,0
+Barcelona,CP0010,Secundaria,Bajo,No,Transferencia,39,159.58775250479133,1
+Valencia,CP0058,Secundaria,Bajo,Si,PayPal,67,469.2466623915586,0
+Sevilla,CP0097,Universidad,Muy alto,Si,Tarjeta,64,97.1760862426961,1
+Sevilla,CP0087,Universidad,Medio,Si,Transferencia,22,170.57423754808156,1
+Sevilla,CP0078,Universidad,Muy alto,Si,PayPal,56,284.0875734757485,1
+Valencia,CP0037,Bachillerato,Alto,No,Transferencia,35,304.58391173190563,1
+Madrid,CP0071,Primaria,Muy alto,Si,Tarjeta,55,56.889763982107446,1
+Madrid,CP0004,Posgrado,Medio,No,PayPal,54,401.25772661942295,0
+Sevilla,CP0047,Universidad,Alto,No,Tarjeta,47,212.72329329142528,0
+Valencia,CP0089,Secundaria,Muy bajo,No,Tarjeta,68,232.88834345096203,0
+Madrid,CP0017,Posgrado,Muy bajo,Si,Tarjeta,48,414.2162949966256,1
+Madrid,CP0069,Universidad,Medio,No,Tarjeta,27,220.67752627739506,0
+Valencia,CP0036,Universidad,Muy alto,No,Tarjeta,32,71.25119442263967,1
+Madrid,CP0059,Universidad,Bajo,No,Tarjeta,59,129.39789671165764,0
+Madrid,CP0047,Universidad,Medio,Si,Tarjeta,65,480.156427574682,1
+Barcelona,CP0076,Universidad,Alto,No,Transferencia,61,81.68241308113137,0
+Valencia,CP0027,Secundaria,Alto,No,PayPal,35,209.7190404356073,0
+Valencia,CP0068,Bachillerato,Muy bajo,No,Tarjeta,40,276.43062517310506,0
+Madrid,CP0076,Posgrado,Alto,Si,PayPal,50,271.97637230235205,1
+Valencia,CP0080,Secundaria,Medio,No,PayPal,33,51.781974355464236,0
+Madrid,CP0039,Bachillerato,Alto,Si,Transferencia,55,275.5232291558707,1
+Barcelona,CP0044,Bachillerato,Medio,Si,Tarjeta,52,222.69760608983415,0
+Valencia,CP0095,Bachillerato,Bajo,No,Efectivo,51,487.43570096355074,0
+Valencia,CP0061,Universidad,Muy bajo,Si,PayPal,45,121.62158779722343,1
+Sevilla,CP0092,Posgrado,Alto,Si,Efectivo,19,209.36938854177274,0
+Valencia,CP0057,Secundaria,Medio,Si,Tarjeta,47,238.7666682904189,1
+Valencia,CP0066,Secundaria,Muy alto,No,Efectivo,30,225.81209169542694,0
+Madrid,CP0055,Secundaria,Muy bajo,No,Efectivo,58,349.62387244333814,0
+Barcelona,CP0039,Universidad,Bajo,No,Efectivo,33,146.98078589649597,0
+Madrid,CP0097,Universidad,Medio,No,Tarjeta,22,149.48219876629634,1
+Madrid,CP0039,Secundaria,Bajo,Si,Tarjeta,45,378.1449268253839,1
+Bilbao,CP0090,Universidad,Bajo,No,Transferencia,56,275.1307334051809,0
+Barcelona,CP0076,Universidad,Alto,No,PayPal,62,236.82005422578968,0
+Sevilla,CP0032,Universidad,Alto,Si,Tarjeta,37,126.14137325476331,1
+Valencia,CP0005,Posgrado,Medio,No,,41,134.387250310475,0
+Sevilla,CP0087,Secundaria,Muy alto,No,Tarjeta,44,54.748236567155246,0
+Barcelona,CP0018,Universidad,Medio,Si,Efectivo,47,91.14182098776917,1
+Valencia,CP0079,Bachillerato,,Si,Transferencia,62,300.57741261060846,1
+Barcelona,CP0039,Universidad,Bajo,Si,Transferencia,44,451.34290850378443,1
+Madrid,CP0091,Universidad,Muy bajo,Si,PayPal,43,179.22414430875085,1
+Valencia,CP0096,Universidad,Medio,No,Tarjeta,24,197.48625165325765,0
+Madrid,CP0058,Universidad,Medio,No,,59,102.0225247751805,1
+Madrid,CP0058,Secundaria,Muy alto,No,Tarjeta,64,224.88392552319624,1
+Valencia,CP0047,Bachillerato,Bajo,No,Transferencia,55,66.74976705619812,1
+Madrid,CP0040,Posgrado,Bajo,Si,Transferencia,22,462.9203133178551,0
+Bilbao,CP0012,Posgrado,Muy alto,No,,40,352.9001066560379,0
+Bilbao,CP0044,Primaria,Bajo,No,Tarjeta,45,495.8369642269485,0
+Bilbao,CP0088,Secundaria,Alto,No,PayPal,51,447.2704232053222,0
+Barcelona,CP0052,Secundaria,Muy bajo,No,Tarjeta,32,262.8457671641687,0
+Madrid,CP0041,Universidad,Medio,No,Tarjeta,49,283.8582640176696,0
+Bilbao,CP0099,Universidad,Muy bajo,No,Transferencia,43,135.75922093273724,1
+Barcelona,CP0062,Secundaria,Medio,No,Tarjeta,65,257.9177042778,0
+Bilbao,CP0026,Bachillerato,Alto,Si,Transferencia,48,456.36254307176523,0
+Bilbao,CP0037,Universidad,Bajo,Si,Tarjeta,36,72.88404063611951,1
+Sevilla,CP0059,Universidad,Muy alto,Si,Tarjeta,26,438.6005613492394,1
+Madrid,CP0006,Bachillerato,Alto,No,Transferencia,46,203.42651073917438,1
+Barcelona,CP0004,Universidad,Muy bajo,No,Efectivo,68,454.7807442933394,1
+Sevilla,CP0044,Bachillerato,Muy alto,No,Tarjeta,56,473.3959578536681,0
+Barcelona,CP0057,Secundaria,Bajo,No,Transferencia,21,351.8891991508577,1
+Madrid,CP0030,Universidad,Alto,No,Efectivo,20,348.99070396670504,1
+Valencia,CP0022,Universidad,Muy alto,No,Efectivo,46,253.73945196893303,1
+Bilbao,CP0041,Universidad,Alto,Si,Tarjeta,69,425.9931010446684,1
+Valencia,CP0009,Universidad,Alto,Si,Transferencia,28,482.72574129497747,1
+Valencia,CP0031,Universidad,Bajo,No,Transferencia,50,398.78681015260366,0
+Madrid,CP0052,Secundaria,Medio,No,Transferencia,55,329.87153019051914,1
+Valencia,CP0029,Bachillerato,Muy alto,No,,28,323.05680311960157,0
+Bilbao,CP0038,Primaria,Bajo,Si,Transferencia,44,432.26145571264806,0
+Madrid,CP0030,Secundaria,Alto,Si,Efectivo,50,293.5416945970843,1
+Barcelona,CP0081,Universidad,Bajo,No,Efectivo,38,411.7369488119702,1
+Sevilla,CP0099,Posgrado,Medio,Si,Tarjeta,56,278.99836482841056,1
+Valencia,CP0001,Primaria,Muy alto,Si,PayPal,48,78.09992373826586,0
+Valencia,CP0077,Bachillerato,Medio,No,Transferencia,55,222.77615400686986,0
+Valencia,CP0076,Universidad,Muy bajo,Si,Tarjeta,63,249.99843095217443,0
+Barcelona,CP0092,Secundaria,Muy alto,No,Tarjeta,19,113.72776024397774,0
+Madrid,CP0011,Universidad,Medio,Si,PayPal,44,96.12334813514576,0
+Sevilla,CP0038,Universidad,Alto,Si,Tarjeta,53,290.95922734562936,0
+Sevilla,CP0065,Universidad,Muy alto,No,PayPal,28,88.31463645023697,0
+Sevilla,CP0095,Secundaria,Muy alto,No,Efectivo,64,186.3253255505378,1
+Bilbao,CP0012,Bachillerato,Bajo,No,Efectivo,35,385.06863918338416,0
+Barcelona,CP0045,Universidad,Alto,No,Tarjeta,18,483.99448080559137,0
+Barcelona,CP0026,Universidad,Muy bajo,Si,,52,373.04176124836783,1
+Sevilla,CP0016,Primaria,Medio,No,PayPal,52,496.6814968037916,0
+Valencia,CP0094,Universidad,,Si,Tarjeta,48,364.2520870757312,1
+Valencia,CP0097,Primaria,,No,,45,182.20751179444738,0
+Sevilla,CP0059,Universidad,Muy bajo,No,Tarjeta,56,352.42364322741287,0
+Sevilla,CP0063,Secundaria,Muy bajo,No,Tarjeta,18,365.9705443386067,0
+Barcelona,CP0087,Posgrado,Muy alto,No,Tarjeta,42,217.27714307740726,0
+Barcelona,CP0034,Bachillerato,Muy bajo,Si,Efectivo,60,57.97123277422506,0
+Madrid,CP0069,Bachillerato,Medio,Si,PayPal,55,366.4399031489691,1
+Valencia,CP0082,Secundaria,Alto,No,Tarjeta,37,59.76504287399373,1
+Madrid,CP0029,Bachillerato,Alto,No,Tarjeta,20,334.034635127032,1
+Barcelona,CP0070,Universidad,Muy alto,No,Tarjeta,68,123.62741993414978,0
+Barcelona,CP0073,Posgrado,Medio,Si,Efectivo,19,304.5215874866195,1
+Madrid,CP0095,Bachillerato,Medio,No,Tarjeta,35,276.76086142126996,1
+Valencia,CP0097,Bachillerato,Muy bajo,Si,PayPal,61,56.08113903778216,0
+Madrid,CP0062,Universidad,Medio,No,Efectivo,27,213.28961764779655,1
+Madrid,CP0027,Universidad,Bajo,No,Efectivo,22,320.49102532833626,1
+Sevilla,CP0059,Universidad,Muy bajo,No,Tarjeta,26,431.8729483544509,1
+Barcelona,CP0078,Bachillerato,Bajo,Si,,19,449.88895122643277,1
+Madrid,CP0093,Bachillerato,Muy alto,No,Tarjeta,51,267.73248651495044,0
+Barcelona,CP0036,Universidad,Alto,No,,55,377.79011928474716,1
+Sevilla,CP0092,Primaria,Muy alto,No,Efectivo,48,192.40455944005595,1
+Madrid,CP0021,Universidad,Alto,No,Efectivo,27,203.98388259139585,0
+Valencia,CP0067,Bachillerato,Muy alto,No,Tarjeta,67,137.50858363204117,0
+Madrid,CP0019,Universidad,Medio,No,Tarjeta,29,302.8766494969577,1
+Madrid,CP0095,Primaria,,No,Transferencia,53,191.55386791731436,1
+Barcelona,CP0099,Universidad,Alto,Si,Tarjeta,38,87.96690339732726,1
+Barcelona,CP0067,Bachillerato,Muy bajo,Si,Transferencia,66,358.25273899843046,0
+Valencia,CP0090,Universidad,Bajo,No,Efectivo,64,368.4889434224292,1
+Valencia,CP0063,Primaria,Muy bajo,Si,Tarjeta,23,211.99658845057604,0
+Bilbao,CP0016,Universidad,Bajo,No,Tarjeta,65,84.52552975521026,1
+Barcelona,CP0011,Universidad,Bajo,No,Tarjeta,66,241.83397283154167,1
+Barcelona,CP0021,Universidad,Muy alto,No,Transferencia,20,249.05095612259694,0
+Sevilla,CP0016,Universidad,Alto,No,Efectivo,27,350.9018982040518,0
+Madrid,CP0009,Universidad,Alto,No,Tarjeta,22,191.93737606640758,0
+Barcelona,CP0064,Universidad,Bajo,No,Efectivo,63,357.1696759015874,1
+Madrid,CP0021,Secundaria,Medio,Si,PayPal,43,442.16984379082476,1
+Madrid,CP0089,Universidad,Medio,No,Tarjeta,38,156.86871906298992,1
+Bilbao,CP0081,Bachillerato,Muy bajo,Si,PayPal,62,490.5138002539549,0
+Sevilla,CP0049,Primaria,Muy bajo,No,Tarjeta,43,223.86566171156312,1
+Valencia,CP0013,Primaria,Muy alto,No,Tarjeta,55,170.26640831617777,1
+Barcelona,CP0063,Bachillerato,Bajo,No,Tarjeta,61,239.68003212963075,1
+Madrid,CP0046,Universidad,Muy bajo,Si,Tarjeta,43,92.47886415673662,0
+Madrid,CP0028,Universidad,Muy bajo,No,Tarjeta,25,106.56765793045204,0
+Madrid,CP0075,Universidad,Bajo,No,,22,236.49532113574912,0
+Barcelona,CP0035,Bachillerato,Muy alto,Si,PayPal,32,393.100034872595,1
+Valencia,CP0098,Bachillerato,Muy bajo,Si,Transferencia,33,455.1405078085209,0
+Valencia,CP0051,Secundaria,Muy alto,Si,Transferencia,18,349.1680958223219,1
+Madrid,CP0075,Bachillerato,Alto,No,Tarjeta,33,97.34879985717637,0
+Bilbao,CP0006,Bachillerato,Muy alto,Si,Tarjeta,54,352.4088929812408,0
+Valencia,CP0028,Primaria,Medio,No,Tarjeta,20,335.9425643163374,0
+Valencia,CP0010,Secundaria,Medio,No,Transferencia,69,412.59376323199905,0
+Valencia,CP0032,Universidad,Muy alto,No,PayPal,64,421.3618999934814,1
+Barcelona,CP0005,Universidad,Medio,Si,Tarjeta,48,440.6913841005405,1
+Madrid,CP0078,Posgrado,Alto,No,Tarjeta,30,236.35918156059427,0
+Barcelona,CP0031,Posgrado,Bajo,No,Efectivo,33,364.0389779084649,0
+Sevilla,CP0050,Universidad,Medio,No,Tarjeta,60,170.71266151503983,0
+Madrid,CP0074,Bachillerato,Medio,No,Tarjeta,38,499.7013259925769,0
+Madrid,CP0057,Universidad,Muy alto,No,Efectivo,19,128.90040861958698,1
+Madrid,CP0086,Universidad,Alto,No,Transferencia,44,54.55149424737611,1
+Madrid,CP0025,Secundaria,Bajo,No,Tarjeta,55,116.9639215331792,1
+Sevilla,CP0097,Bachillerato,Muy alto,No,Tarjeta,43,399.142530294857,0
+Valencia,CP0045,Universidad,Muy alto,Si,PayPal,55,251.05265442869518,1
+Barcelona,CP0097,Bachillerato,Alto,Si,Tarjeta,63,251.37511151469275,0
+Madrid,CP0028,Universidad,Bajo,Si,Tarjeta,42,479.7603138252508,1
+Barcelona,CP0003,Universidad,Alto,No,Tarjeta,28,463.8357086126334,0
+Barcelona,CP0080,Secundaria,Bajo,No,Tarjeta,25,190.03763201180413,0
+Madrid,CP0098,Bachillerato,Alto,No,Tarjeta,25,144.07615795138977,1
+Barcelona,CP0012,Bachillerato,Muy alto,No,Transferencia,50,431.81699447018286,1
+Barcelona,CP0038,Primaria,Muy alto,No,Tarjeta,24,457.70858196996346,0
+Valencia,CP0014,Primaria,Muy bajo,No,Tarjeta,55,293.7186152593191,0
+Valencia,CP0028,Universidad,Medio,No,Efectivo,38,333.2406700026952,1
+Madrid,CP0028,Secundaria,Alto,No,Efectivo,25,165.611428111532,0
+Barcelona,CP0074,Bachillerato,Muy bajo,Si,PayPal,68,410.36120959033605,1
+Valencia,CP0031,Secundaria,Medio,Si,PayPal,38,334.4550928020604,0
+Barcelona,CP0001,Posgrado,Alto,Si,Tarjeta,37,276.58108008409846,1
+Sevilla,CP0046,Secundaria,Bajo,No,Transferencia,25,77.04885023527812,1
+Valencia,CP0077,Bachillerato,Medio,No,Tarjeta,63,462.1707331300192,0
+Madrid,CP0083,Universidad,Muy alto,No,PayPal,48,326.95313917298273,1
+Madrid,CP0021,Universidad,Muy bajo,Si,Tarjeta,67,136.7109926118356,1
+Valencia,CP0074,Secundaria,Medio,No,PayPal,46,322.87375264237374,0
+Madrid,CP0026,Universidad,Medio,No,Transferencia,65,354.85850940798804,1
+Valencia,CP0066,Bachillerato,Muy alto,Si,Tarjeta,26,286.5966515074515,1
+Bilbao,CP0080,Bachillerato,Alto,No,Efectivo,32,373.14578208021015,1
+Valencia,CP0055,Secundaria,Bajo,Si,PayPal,47,311.6542765678809,1
+Barcelona,CP0091,Primaria,Muy alto,No,PayPal,43,476.49631191446673,1
+Valencia,CP0092,Universidad,Bajo,No,,27,74.16368536968807,0
+Barcelona,CP0020,Bachillerato,Alto,Si,Transferencia,46,97.81056881130223,0
+Barcelona,CP0046,Bachillerato,Medio,Si,Tarjeta,33,128.15223662945294,1
+Bilbao,CP0079,Universidad,Bajo,No,Tarjeta,53,360.5769817719495,0
+Barcelona,CP0058,Universidad,Muy bajo,No,Tarjeta,37,340.5181427374139,0
+Bilbao,CP0083,Secundaria,Muy bajo,No,Tarjeta,62,451.4264870943623,0
+Bilbao,CP0005,Universidad,Muy alto,No,Transferencia,54,379.7948537977543,0
+Madrid,CP0018,Secundaria,Alto,No,Tarjeta,39,278.7599694040665,1
+Madrid,CP0056,Universidad,Muy alto,No,Transferencia,24,496.3243066086336,0
+Madrid,CP0068,Universidad,Muy alto,No,Tarjeta,40,169.7485802761846,1
+Madrid,CP0002,Posgrado,Muy alto,No,Tarjeta,58,424.9362469034543,1
+Madrid,CP0000,Primaria,Muy bajo,No,Tarjeta,57,242.05566748726372,0
+Valencia,CP0057,Primaria,Muy bajo,No,Tarjeta,46,341.9308124940804,1
+Madrid,CP0037,Secundaria,Muy alto,No,Tarjeta,33,377.2708117035953,1
+Barcelona,CP0014,Secundaria,Muy bajo,No,Tarjeta,55,335.18933923565135,0
+Sevilla,CP0033,Secundaria,Alto,Si,Efectivo,45,113.22828639886697,0
+Madrid,CP0060,Posgrado,Muy alto,No,Tarjeta,65,249.32795483656975,0
+Sevilla,CP0034,Secundaria,Muy bajo,No,Tarjeta,55,302.64727006990597,0
+Madrid,CP0063,Secundaria,Bajo,Si,Tarjeta,48,432.06969163036854,1
+Madrid,CP0024,Universidad,Muy alto,No,PayPal,31,249.64058695935753,1
+Valencia,CP0023,Bachillerato,Muy alto,No,PayPal,50,463.4362871619132,0
+Valencia,CP0011,Universidad,Alto,Si,Tarjeta,26,248.1684003613448,1
+Sevilla,CP0017,Primaria,Medio,No,Tarjeta,44,296.9509366683552,0
+Valencia,CP0014,Bachillerato,Medio,Si,Tarjeta,41,408.32855732426043,1
+Sevilla,CP0079,Primaria,Alto,Si,PayPal,30,312.3804579899646,1
+Madrid,CP0026,Primaria,Alto,No,Tarjeta,43,482.0981325722711,0
+Madrid,CP0071,Posgrado,Alto,No,Tarjeta,46,347.1511237313574,0
+Sevilla,CP0059,Secundaria,Medio,Si,,68,285.2192543304205,1
+Sevilla,CP0045,Bachillerato,Alto,No,Tarjeta,66,60.61638550135814,0
+Bilbao,CP0088,Bachillerato,Muy bajo,No,Tarjeta,60,236.1798039111484,0
+Barcelona,CP0016,Bachillerato,Muy alto,Si,Transferencia,45,184.6617886670722,1
+Barcelona,CP0092,Universidad,Muy alto,Si,Tarjeta,45,386.6475505493701,1
+Sevilla,CP0052,Primaria,Bajo,No,Efectivo,25,143.72495381909562,0
+Barcelona,CP0007,Universidad,Bajo,Si,Tarjeta,40,142.3490392823323,1
+Bilbao,CP0078,Posgrado,Muy alto,No,Tarjeta,46,135.28356945681955,0
+Sevilla,CP0026,Universidad,Muy bajo,No,PayPal,22,106.52702592030616,1
+Barcelona,CP0045,Posgrado,Medio,No,Tarjeta,59,189.95315165189933,0
+Sevilla,CP0049,Primaria,Medio,Si,Transferencia,24,448.6649514995413,0
+Sevilla,CP0070,Bachillerato,Muy bajo,No,Efectivo,59,398.7178125376797,1
+Madrid,CP0002,Secundaria,Medio,No,Tarjeta,53,380.8630473380571,1
+Bilbao,CP0092,Universidad,Alto,No,PayPal,58,408.8015625424832,1
+Barcelona,CP0063,Posgrado,Muy alto,Si,Tarjeta,44,171.23805019830723,1
+Sevilla,CP0043,Secundaria,Muy alto,Si,PayPal,63,449.3487608386195,1
+Barcelona,CP0052,Universidad,Muy bajo,No,Tarjeta,19,111.78651881372198,1
+Sevilla,CP0023,Secundaria,Medio,No,PayPal,42,201.3555770220119,0
+Barcelona,CP0059,Universidad,Bajo,Si,Tarjeta,26,314.0366535353043,1
+Madrid,CP0002,Bachillerato,Bajo,No,Efectivo,44,96.30728975390028,0
+Bilbao,CP0019,Posgrado,Medio,Si,Transferencia,18,378.5585844993912,1
+Madrid,CP0045,Universidad,Bajo,No,PayPal,40,224.26072169156373,0
+Barcelona,CP0014,Bachillerato,Muy bajo,No,PayPal,27,402.98254952378005,1
+Bilbao,CP0024,Secundaria,Muy bajo,No,Transferencia,59,271.8033285130712,0
+Bilbao,CP0093,Secundaria,Medio,No,PayPal,69,131.39353599140136,0
+Valencia,CP0077,Secundaria,Bajo,No,Tarjeta,42,380.642815109905,1
+Valencia,CP0070,Secundaria,Muy bajo,No,Tarjeta,20,163.4647801275246,1
+Barcelona,CP0016,Universidad,Muy bajo,No,Tarjeta,23,270.86463557061927,1
+Madrid,CP0083,Universidad,Alto,No,Tarjeta,23,83.98997112060843,0
+Barcelona,CP0099,Bachillerato,Alto,No,Tarjeta,19,328.0399944854165,0
+Valencia,CP0008,Secundaria,Muy bajo,Si,Efectivo,35,349.63599479732477,1
+Sevilla,CP0037,Universidad,Medio,Si,Tarjeta,40,220.4033944877526,0
+Sevilla,CP0047,Universidad,Muy alto,No,Efectivo,19,479.49025114448324,1
+Sevilla,CP0059,Primaria,Muy alto,No,Tarjeta,29,443.37601466693076,1
+Madrid,CP0062,Universidad,Muy bajo,No,Tarjeta,39,368.5734120829976,0
+Barcelona,CP0085,Bachillerato,Muy bajo,Si,Efectivo,54,371.1434335221842,0
+Madrid,CP0001,Primaria,Muy bajo,No,Transferencia,37,163.58077172396804,1
+Barcelona,CP0087,Bachillerato,Medio,No,Transferencia,56,345.56685398980204,0
+Barcelona,CP0071,Bachillerato,Alto,No,Efectivo,41,139.19281935598383,0
+Sevilla,CP0010,Secundaria,Muy bajo,No,Tarjeta,65,114.80145076391996,0
+Barcelona,CP0063,Posgrado,Muy bajo,No,Efectivo,37,499.76055239116107,0
+Madrid,CP0076,Universidad,Bajo,No,Tarjeta,18,330.06916916292835,0
+Madrid,CP0080,Universidad,Medio,No,Tarjeta,18,243.94454269573572,1
+Sevilla,CP0071,Bachillerato,Muy bajo,Si,Tarjeta,34,179.6740352977781,0
+Valencia,CP0020,Bachillerato,Bajo,No,Tarjeta,18,321.7641996480023,1
+Madrid,CP0017,Universidad,Muy alto,No,Tarjeta,69,72.31707869903876,0
+Madrid,CP0093,Bachillerato,Muy bajo,No,PayPal,62,92.60644572715778,1
+Valencia,CP0063,Primaria,Muy bajo,Si,PayPal,47,64.78551398317836,0
+Madrid,CP0081,Bachillerato,Bajo,No,Tarjeta,58,274.62642496819774,1
+Sevilla,CP0094,Universidad,Medio,No,Tarjeta,64,320.27298313423216,1
+Valencia,CP0037,Bachillerato,Muy bajo,Si,Tarjeta,20,78.11589261101938,1
+Madrid,CP0031,Primaria,Muy alto,No,Tarjeta,63,374.55101037451243,0
+Madrid,CP0010,Universidad,Muy bajo,No,PayPal,28,153.677782181554,0
+Bilbao,CP0044,Secundaria,Muy alto,No,Tarjeta,41,358.34065419643974,1
+Barcelona,CP0088,Secundaria,,No,Transferencia,39,491.85371301586054,0
+Barcelona,CP0032,Secundaria,Alto,Si,Tarjeta,61,360.997641524233,0
+Sevilla,CP0040,Bachillerato,Muy alto,No,PayPal,62,447.4368738156238,0
+Bilbao,CP0007,Universidad,Medio,Si,Tarjeta,43,476.6893280343803,1
+Bilbao,CP0010,Bachillerato,Muy bajo,No,Transferencia,30,269.03797175854197,0
+Sevilla,CP0085,Secundaria,Muy bajo,No,Tarjeta,18,366.04624073886805,0
+Barcelona,CP0050,Universidad,Alto,No,Efectivo,41,433.3861641001288,0
+Madrid,CP0087,Universidad,Muy alto,Si,Tarjeta,27,210.47401079347375,1
+Sevilla,CP0040,Universidad,Muy bajo,No,Tarjeta,52,167.62879245217772,0
+Valencia,CP0016,Secundaria,Muy bajo,No,PayPal,41,475.9693577502524,0
+Barcelona,CP0075,Bachillerato,Medio,No,PayPal,45,376.8365751659681,1
+Bilbao,CP0045,Posgrado,Bajo,No,PayPal,53,148.85696001912186,0
+Madrid,CP0031,Universidad,Alto,No,Efectivo,33,252.08752670425105,1
+Barcelona,CP0078,Primaria,Alto,No,Transferencia,57,408.4032962920142,1
+Madrid,CP0079,Primaria,Bajo,No,Tarjeta,33,296.1783459132989,0
+Barcelona,CP0053,Bachillerato,Muy bajo,Si,Tarjeta,34,342.47844417465006,0
+Madrid,CP0085,Posgrado,Medio,Si,Tarjeta,68,389.19569092027353,0
+Madrid,CP0091,Bachillerato,Medio,No,Efectivo,32,329.90413496404125,1
+Madrid,CP0019,Bachillerato,Alto,No,Tarjeta,33,293.0356948649881,0
+Valencia,CP0032,Secundaria,Medio,No,Tarjeta,32,387.3264279744981,1
+Valencia,CP0073,Universidad,Bajo,No,Efectivo,51,377.4033659444903,1
+Valencia,CP0039,Universidad,Muy bajo,Si,Transferencia,28,333.44258008243054,1
+Bilbao,CP0031,Bachillerato,Bajo,No,Tarjeta,18,211.90523602186832,0
+Barcelona,CP0096,Universidad,,Si,Tarjeta,32,232.6154414901222,1
+Madrid,CP0001,Posgrado,Alto,Si,Tarjeta,43,486.69734699784385,1
+Sevilla,CP0096,Secundaria,Medio,No,Tarjeta,68,100.57366953118662,1
+Madrid,CP0032,Bachillerato,Muy alto,Si,Tarjeta,21,170.8272127637759,0
+Bilbao,CP0076,Secundaria,Medio,No,Efectivo,60,271.58079164195107,0
+Madrid,CP0029,Universidad,Muy bajo,Si,Efectivo,22,426.5283587647036,0
+Bilbao,CP0032,Universidad,Muy bajo,No,Efectivo,52,123.65404867837753,0
+Madrid,CP0076,Universidad,Muy bajo,No,Tarjeta,30,174.62957815607444,0
+Sevilla,CP0025,Universidad,Medio,Si,Transferencia,27,79.60919800785754,0
+Barcelona,CP0021,Bachillerato,Muy alto,No,Tarjeta,28,367.6933697228683,0
+Bilbao,CP0065,Posgrado,Muy bajo,No,Tarjeta,35,157.19424596402726,1
+Madrid,CP0037,Bachillerato,Muy alto,No,Transferencia,51,224.90363780192772,1
+Valencia,CP0089,Secundaria,Medio,Si,,56,249.66565116335053,1
+Bilbao,CP0045,Universidad,Muy alto,No,Tarjeta,58,451.09127102290506,0
+Barcelona,CP0014,Universidad,Medio,No,PayPal,59,235.09863064905656,0
+Valencia,CP0097,Bachillerato,Medio,No,Tarjeta,67,115.35125896186207,0
+Valencia,CP0043,Universidad,Alto,No,Efectivo,40,285.9417222530544,0
+Barcelona,CP0048,Posgrado,Medio,No,Tarjeta,24,483.33109759188335,0
+Valencia,CP0074,Secundaria,Medio,No,,56,323.458538472865,0
+Valencia,CP0060,Posgrado,,No,Tarjeta,20,492.52424920725764,0
+Bilbao,CP0066,Secundaria,Muy bajo,No,Tarjeta,29,428.4982890224915,1
+Madrid,CP0005,Secundaria,Alto,No,Efectivo,24,66.18459029603576,0
+Madrid,CP0008,Secundaria,Alto,No,Tarjeta,66,346.27981791966886,1
+Bilbao,CP0005,Universidad,Alto,No,Tarjeta,43,179.04509490104763,0
+Sevilla,CP0072,Universidad,Bajo,No,Tarjeta,50,301.82758504012577,1
+Barcelona,CP0094,Secundaria,Medio,Si,Tarjeta,54,175.70533591905195,0
+Valencia,CP0031,Bachillerato,Muy bajo,No,Tarjeta,65,206.99168747238068,0
+Madrid,CP0040,Universidad,,No,Tarjeta,32,465.4259202893807,1
+Madrid,CP0075,Primaria,Medio,No,PayPal,19,142.9894332012674,1
+Barcelona,CP0007,Universidad,Bajo,No,Tarjeta,58,443.3491031116237,0
+Barcelona,CP0071,Universidad,Medio,No,Tarjeta,24,63.706013631723565,0
+Valencia,CP0049,Bachillerato,Medio,No,Tarjeta,49,90.89444226634177,0
+Madrid,CP0091,Posgrado,,Si,,21,434.6037686229186,1
+Bilbao,CP0061,Bachillerato,Alto,No,PayPal,37,333.75021390913787,0
+Bilbao,CP0083,Posgrado,Alto,No,Tarjeta,67,386.25626211779763,0
+Valencia,CP0061,Universidad,Muy bajo,No,PayPal,53,144.23795186983443,0
+Barcelona,CP0006,Universidad,Muy bajo,No,Tarjeta,49,291.6875550155466,0
+Barcelona,CP0074,Secundaria,Alto,No,Transferencia,45,381.74865060708714,0
+Sevilla,CP0083,Universidad,Muy alto,No,Efectivo,30,332.29136165461813,0
+Valencia,CP0079,Bachillerato,Medio,Si,,18,262.26444510104426,0
+Madrid,CP0003,Secundaria,Muy alto,Si,Efectivo,52,481.9027038969717,0
+Bilbao,CP0005,Primaria,Medio,Si,Efectivo,65,354.27080005405037,0
+Sevilla,CP0057,Universidad,Alto,No,Tarjeta,47,458.4878601085571,0
+Bilbao,CP0021,Bachillerato,Muy bajo,No,Tarjeta,53,378.39673020815655,0
+Valencia,CP0025,Universidad,Muy bajo,No,PayPal,42,380.9585878689574,1
+Valencia,CP0002,Universidad,Muy alto,No,Tarjeta,33,86.0082213909557,0
+Barcelona,CP0040,Primaria,Muy bajo,No,Tarjeta,36,211.75907983427462,0
+Bilbao,CP0059,Universidad,Alto,No,Transferencia,18,436.2662330238463,1
+Sevilla,CP0013,Secundaria,Muy alto,No,Tarjeta,22,154.67173796694016,1
+Madrid,CP0074,Universidad,Medio,No,PayPal,68,101.97763977040978,0
+Madrid,CP0081,Universidad,Muy bajo,No,Transferencia,39,196.74772548745705,1
+Barcelona,CP0011,Bachillerato,Bajo,No,Efectivo,41,149.1970482016763,0
+Sevilla,CP0086,Universidad,Muy bajo,Si,PayPal,60,466.3796876569198,1
+Bilbao,CP0011,Bachillerato,Medio,No,Tarjeta,62,440.584988900959,1
+Madrid,CP0012,Bachillerato,Muy alto,Si,Tarjeta,69,274.8574536273069,1
+Valencia,CP0024,Universidad,Medio,No,Tarjeta,54,77.60474351774062,0
+Barcelona,CP0044,Bachillerato,Bajo,No,Tarjeta,53,371.55305574192033,0
+Bilbao,CP0018,Bachillerato,Alto,No,Transferencia,53,330.5352791013191,1
+Sevilla,CP0054,Bachillerato,Muy bajo,Si,PayPal,21,486.74960182782314,0
+Sevilla,CP0099,Universidad,Muy alto,No,Tarjeta,53,301.52895812166963,0
+Barcelona,CP0044,Bachillerato,Alto,Si,Tarjeta,69,201.37717553130923,1
+Barcelona,CP0007,Secundaria,Medio,No,,35,283.5597621103501,0
+Madrid,CP0092,Universidad,Muy alto,Si,Tarjeta,67,490.66848113203235,1
+Madrid,CP0052,Universidad,Alto,No,Tarjeta,33,363.36309463986373,1
+Sevilla,CP0054,Secundaria,Muy alto,No,Tarjeta,58,352.38926206717304,1
+Sevilla,CP0031,Secundaria,Bajo,No,PayPal,35,158.3067153766484,0
+Bilbao,CP0050,Secundaria,Bajo,Si,Efectivo,39,384.62113290227796,0
+Bilbao,CP0043,Bachillerato,Muy bajo,Si,Transferencia,19,387.6223232622973,1
+Valencia,CP0081,Bachillerato,Muy bajo,No,Transferencia,38,192.78004269915738,0
+Sevilla,CP0069,Universidad,Bajo,No,Tarjeta,53,267.67122457582093,0
+Bilbao,CP0017,Universidad,Muy alto,No,,61,182.57149982320522,0
+Sevilla,CP0082,Universidad,Bajo,Si,Transferencia,56,166.417281645929,1
+Madrid,CP0021,Bachillerato,Muy bajo,No,Tarjeta,64,61.653231612268314,1
+Barcelona,CP0036,Universidad,Bajo,Si,Transferencia,56,178.34528509399945,1
+Madrid,CP0095,Bachillerato,Bajo,Si,PayPal,46,299.2864774452237,1
+Bilbao,CP0055,Posgrado,Muy alto,No,,43,50.72053439706297,1
+Valencia,CP0058,Universidad,Alto,No,Transferencia,38,177.44858771435034,0
+Madrid,CP0002,Secundaria,Muy bajo,Si,Transferencia,34,446.63464954546254,0
+Valencia,CP0027,Universidad,Muy alto,Si,,33,317.1418632983124,1
+Valencia,CP0073,Bachillerato,Bajo,Si,Tarjeta,48,323.5382708364412,0
+Barcelona,CP0034,Universidad,Bajo,No,Tarjeta,68,231.51393726185896,1
+Madrid,CP0060,Primaria,Alto,No,Tarjeta,26,354.41246457158496,1
+Valencia,CP0092,Secundaria,Muy bajo,Si,Efectivo,48,135.46974480366163,1
+Barcelona,CP0053,Universidad,Muy bajo,Si,,31,418.43606467288623,1
+Sevilla,CP0062,Secundaria,Medio,No,Transferencia,66,102.5101039711549,0
+Barcelona,CP0078,Universidad,Muy bajo,No,Tarjeta,54,345.2006095938992,1
+Sevilla,CP0096,Secundaria,Alto,No,Efectivo,19,203.51719661885738,0
+Valencia,CP0006,Universidad,Medio,Si,Tarjeta,69,386.38083676211454,1
+Valencia,CP0075,Universidad,Medio,Si,Transferencia,65,297.394048069709,0
+Sevilla,CP0048,Bachillerato,Bajo,No,Efectivo,63,253.5588673154223,0
+Barcelona,CP0093,Bachillerato,Bajo,No,,31,126.24008094196115,0
+Madrid,CP0084,Secundaria,Muy bajo,Si,Tarjeta,50,336.56965892795876,1
+Madrid,CP0030,Primaria,Medio,No,Transferencia,52,488.6464295391859,1
+Sevilla,CP0057,Bachillerato,Bajo,Si,Tarjeta,56,421.52154120815675,1
+Valencia,CP0060,Universidad,Alto,No,Tarjeta,64,77.00368666505531,0
+Valencia,CP0023,Posgrado,Bajo,No,PayPal,68,219.30322026253597,0
+Madrid,CP0019,Universidad,Bajo,Si,Transferencia,37,466.51235413562233,1
+Madrid,CP0036,Universidad,Medio,No,PayPal,19,276.36968640065965,0
+Madrid,CP0003,Universidad,Medio,No,Tarjeta,68,347.9503216136806,1
+Barcelona,CP0091,Universidad,Muy alto,No,Tarjeta,58,460.6697055161257,0
+Valencia,CP0019,Secundaria,Alto,No,PayPal,36,443.2076106889463,0
+Barcelona,CP0059,Posgrado,Medio,Si,Efectivo,54,275.81916899322994,0
+Barcelona,CP0023,Universidad,Muy bajo,No,Transferencia,35,246.94083619592092,0
+Bilbao,CP0049,Universidad,Alto,Si,Tarjeta,33,202.8616783158142,1
+Barcelona,CP0048,Secundaria,Alto,No,Tarjeta,21,373.558749423301,1
+Barcelona,CP0050,Bachillerato,Medio,No,Tarjeta,29,179.14405976219447,0
+Sevilla,CP0095,Bachillerato,Alto,No,Tarjeta,46,162.44942289390508,0
+Barcelona,CP0035,Universidad,Medio,Si,Tarjeta,24,210.31245257170104,1
+Valencia,CP0097,Bachillerato,,No,Tarjeta,31,129.74677559545643,0
+Sevilla,CP0099,Bachillerato,Muy alto,No,PayPal,29,362.8039171755953,1
+Bilbao,CP0065,Posgrado,Bajo,No,Tarjeta,52,327.3082921987755,0
+Madrid,CP0078,Secundaria,Medio,Si,Efectivo,22,267.29534035212964,0
+Bilbao,CP0033,Bachillerato,Medio,Si,Transferencia,34,225.6466006676996,0
+Barcelona,CP0035,Primaria,Bajo,No,,59,459.0781443035292,0
+Madrid,CP0005,Universidad,Muy bajo,No,Tarjeta,49,63.105703245097374,1
+Barcelona,CP0038,Posgrado,Muy bajo,Si,Transferencia,27,396.0984845782846,1
+Bilbao,CP0041,Secundaria,Muy bajo,No,Efectivo,60,455.8593072869999,0
+Barcelona,CP0057,Universidad,Medio,No,Transferencia,34,250.8595607434667,1
+Barcelona,CP0011,Secundaria,Alto,No,Transferencia,22,297.81072116179104,1
+Valencia,CP0002,Posgrado,Medio,Si,PayPal,62,475.00865954691704,0
+Madrid,CP0017,Universidad,Alto,Si,Efectivo,59,145.5248818784815,1
+Madrid,CP0039,Universidad,Bajo,No,Tarjeta,26,284.0606815031082,0
+Madrid,CP0020,Primaria,Muy alto,Si,Efectivo,66,263.62450720769584,1
+Madrid,CP0014,Posgrado,Alto,No,Tarjeta,50,166.27669154166654,0
+Madrid,CP0096,Universidad,Muy bajo,No,PayPal,53,418.3669536678986,0
+Madrid,CP0098,Bachillerato,Medio,No,Tarjeta,53,454.82026764345613,0
+Valencia,CP0025,Universidad,Bajo,No,Tarjeta,35,401.869660904694,0
+Madrid,CP0007,Secundaria,Muy bajo,No,Transferencia,26,137.91153238187377,0
+Barcelona,CP0099,Universidad,Bajo,Si,Efectivo,46,89.03688597562171,1
+Sevilla,CP0093,Secundaria,Muy alto,No,Tarjeta,67,322.45001838740404,0
+Barcelona,CP0086,Universidad,Medio,No,Tarjeta,31,75.69264222944777,0
+Valencia,CP0041,Bachillerato,Medio,No,PayPal,42,352.7716498511379,0
+Madrid,CP0043,Primaria,Muy alto,Si,Tarjeta,32,288.6908991472592,1
+Madrid,CP0013,Secundaria,Medio,Si,PayPal,23,348.2535797346486,1
+Madrid,CP0077,Primaria,Alto,Si,Tarjeta,59,315.5768481423848,1
+Madrid,CP0001,Bachillerato,Bajo,No,Transferencia,46,240.21615628722776,0
+Madrid,CP0036,Bachillerato,Muy bajo,No,Transferencia,32,140.3947310631027,0
+Madrid,CP0068,Universidad,Muy alto,No,Tarjeta,46,187.56596111471984,1
+Madrid,CP0037,Secundaria,Alto,Si,Tarjeta,21,286.0252583985394,1
+Madrid,CP0040,Secundaria,Muy bajo,Si,Tarjeta,35,343.3406421414227,1
+Barcelona,CP0061,Universidad,Muy bajo,No,Transferencia,67,400.7673575980378,0
+Madrid,CP0059,Primaria,Muy alto,No,Efectivo,66,395.2268233020774,1
+Barcelona,CP0013,Posgrado,Alto,Si,Efectivo,61,487.7099344674884,0
+Barcelona,CP0088,Universidad,Muy bajo,No,Tarjeta,56,178.62865189853426,1
+Valencia,CP0083,Universidad,Muy bajo,Si,Tarjeta,33,81.99981869604656,1
+Madrid,CP0001,Universidad,,No,,28,205.54562099383668,1
+Sevilla,CP0069,Universidad,Medio,No,Tarjeta,31,384.4825138508345,1
+Valencia,CP0016,Secundaria,Muy bajo,Si,Efectivo,20,247.15024296498282,0
+Madrid,CP0088,Primaria,Bajo,Si,PayPal,68,418.00479376523873,1
+Sevilla,CP0027,Secundaria,Alto,No,Efectivo,67,297.19686433370674,0
+Bilbao,CP0065,Universidad,Muy bajo,Si,Tarjeta,59,468.40627518372634,0
+Madrid,CP0034,Primaria,Muy alto,No,PayPal,55,476.538548899581,0
+Madrid,CP0004,Universidad,Bajo,No,Transferencia,62,81.18702770843691,0
+Sevilla,CP0064,Posgrado,,No,PayPal,59,255.38604787059094,0
+Valencia,CP0039,Universidad,Bajo,No,Efectivo,35,324.3600775623056,1
+Madrid,CP0075,Bachillerato,Bajo,No,Tarjeta,37,165.14264336549576,1
+Madrid,CP0055,Primaria,Medio,Si,Tarjeta,65,233.1845507205411,1
+Barcelona,CP0035,Universidad,Bajo,No,Transferencia,42,354.95669350296424,0
+Barcelona,CP0044,Universidad,Medio,No,Tarjeta,55,152.03040210426263,0
+Valencia,CP0022,Secundaria,Alto,No,Tarjeta,30,320.8916088385036,1
+Barcelona,CP0046,Primaria,Medio,Si,Efectivo,21,363.8515226739377,1
+Barcelona,CP0030,Posgrado,Muy alto,Si,Efectivo,31,90.72333999314003,1
+Valencia,CP0010,Universidad,Muy bajo,No,Efectivo,50,273.8881922123537,0
+Madrid,CP0009,Universidad,Alto,Si,Tarjeta,45,168.38601346588587,1
+Madrid,CP0066,Universidad,Alto,No,Tarjeta,69,375.97386019912005,1
+Valencia,CP0013,Universidad,Muy alto,No,Efectivo,54,135.29997884162321,1
+Sevilla,CP0079,Bachillerato,Medio,No,PayPal,25,451.5070619921479,0
+Barcelona,CP0073,Bachillerato,Muy bajo,No,Transferencia,61,243.92360143324711,0
+Barcelona,CP0092,Bachillerato,Medio,No,PayPal,51,139.10136363839908,1
+Madrid,CP0009,Bachillerato,Bajo,No,Transferencia,61,247.1098083576482,0
+Barcelona,CP0075,Universidad,Medio,Si,Efectivo,22,233.93469326383754,1
+Barcelona,CP0093,Universidad,Alto,No,Tarjeta,22,243.0135317721696,0
+Madrid,CP0000,Universidad,Muy bajo,No,Efectivo,48,313.5025820738511,0
+Madrid,CP0004,Bachillerato,Medio,No,Efectivo,62,284.5281762110919,1
+Barcelona,CP0019,Universidad,Muy bajo,No,Efectivo,26,117.3997092564062,1
+Madrid,CP0007,Universidad,Muy bajo,No,Tarjeta,59,79.51058269098634,0
+Barcelona,CP0042,Universidad,Bajo,No,Efectivo,49,378.2369519269432,1
+Madrid,CP0075,Universidad,Bajo,No,Tarjeta,50,301.87284616774105,0
+Barcelona,CP0000,Secundaria,Alto,Si,Efectivo,20,211.5503456356687,0
+Madrid,CP0056,Bachillerato,Muy alto,No,Tarjeta,47,413.7610201241332,0
+Sevilla,CP0063,Secundaria,Muy bajo,No,Transferencia,67,224.62631341743062,1
+Valencia,CP0083,Bachillerato,Muy alto,No,Tarjeta,29,408.18429032027336,1
+Valencia,CP0027,Bachillerato,Alto,No,Tarjeta,46,187.5902573805686,0
+Sevilla,CP0036,Universidad,Muy bajo,No,Tarjeta,20,82.7803838953399,1
+Barcelona,CP0046,Posgrado,Muy bajo,Si,Efectivo,43,469.6878622099681,0
+Madrid,CP0075,Universidad,Muy alto,No,Tarjeta,47,227.5480081766179,0
+Barcelona,CP0036,Universidad,Medio,Si,Tarjeta,26,406.7116577822201,1
+Valencia,CP0048,Bachillerato,Bajo,No,,43,175.61485995003702,0
+Valencia,CP0043,Universidad,Medio,No,Tarjeta,19,340.8643004556452,1
+Barcelona,CP0055,Primaria,Muy alto,Si,PayPal,20,442.98989296597773,1
+Madrid,CP0027,Secundaria,Bajo,Si,PayPal,63,68.73981005299115,0
+Madrid,CP0078,Bachillerato,Medio,No,Efectivo,21,423.78609410874014,0
+Barcelona,CP0005,Bachillerato,Bajo,Si,Tarjeta,42,307.0998522373679,1
+Valencia,CP0060,Primaria,Muy bajo,No,Transferencia,68,323.36228925885615,0
+Valencia,CP0019,Secundaria,Medio,Si,Tarjeta,30,285.4211003626922,1
+Barcelona,CP0077,Secundaria,Bajo,Si,,56,443.51379647763906,1
+Bilbao,CP0001,Posgrado,Bajo,No,Tarjeta,61,69.54501075603686,1
+Valencia,CP0072,Bachillerato,Bajo,No,PayPal,52,167.46277619113164,0
+Madrid,CP0036,Bachillerato,Medio,No,Tarjeta,40,444.0931424866199,1
+Madrid,CP0019,Secundaria,Alto,No,Efectivo,26,388.5555661393802,0
+Madrid,CP0025,Universidad,Medio,No,Transferencia,19,57.94032208037263,1
+Madrid,CP0028,Secundaria,Muy alto,No,Tarjeta,58,282.6528274443689,0
+Madrid,CP0000,Secundaria,Medio,No,Tarjeta,61,288.3077063207037,1
+Madrid,CP0034,Bachillerato,Bajo,No,PayPal,48,230.39696080755968,1
+Madrid,CP0069,Primaria,Muy bajo,No,Efectivo,61,183.82699942789537,1
+Madrid,CP0058,Primaria,Medio,No,Efectivo,64,356.7761826855539,0
+Sevilla,CP0068,Secundaria,Medio,Si,Tarjeta,19,143.50570911713922,0
+Madrid,CP0032,Primaria,Bajo,No,Tarjeta,49,409.52685293226773,0
+Barcelona,CP0050,Secundaria,Muy bajo,Si,Tarjeta,35,411.3667223453623,0
+Barcelona,CP0077,Bachillerato,Muy bajo,No,,30,236.86764690776923,1
+Bilbao,CP0011,Universidad,Muy alto,Si,Tarjeta,63,177.59660490934144,0
+Madrid,CP0019,Universidad,Medio,No,Transferencia,22,177.74518171582093,1
+Barcelona,CP0052,Bachillerato,Muy bajo,No,,59,267.0310957982946,1
+Bilbao,CP0087,Secundaria,Muy bajo,Si,Tarjeta,61,373.81065113721144,1
+Sevilla,CP0042,Posgrado,Alto,Si,Efectivo,27,211.49091094723644,0
+Sevilla,CP0097,Bachillerato,Alto,Si,Transferencia,60,324.51950545598817,0
+Madrid,CP0088,Primaria,Muy bajo,No,Tarjeta,42,222.11800726216745,1
+Madrid,CP0049,Universidad,Muy alto,No,Efectivo,51,187.0354351181225,1
+Valencia,CP0028,Secundaria,Muy bajo,Si,Tarjeta,54,61.18678216210737,1
+Bilbao,CP0056,Bachillerato,Bajo,No,Tarjeta,47,51.761347580925786,1
+Valencia,CP0038,Bachillerato,Medio,No,Tarjeta,24,152.243455024402,0
+Valencia,CP0094,Universidad,Muy alto,No,Transferencia,23,232.88282906044796,0
+Madrid,CP0055,Bachillerato,Bajo,No,Tarjeta,20,433.0675253129271,0
+Sevilla,CP0042,Universidad,Muy alto,No,Tarjeta,30,409.3179093186914,1
+Madrid,CP0049,Posgrado,Bajo,No,Tarjeta,20,170.22436816459543,1
+Barcelona,CP0022,Secundaria,Medio,Si,Transferencia,43,160.0431993429347,1
+Barcelona,CP0043,Secundaria,Medio,Si,Tarjeta,41,152.29493198151235,1
+Barcelona,CP0037,Bachillerato,Alto,Si,Tarjeta,23,202.65680323799015,1
+Madrid,CP0083,Bachillerato,Bajo,Si,Tarjeta,60,274.1894238027584,1
+Madrid,CP0022,Bachillerato,Alto,No,Tarjeta,66,247.40049741420896,1
+Valencia,CP0044,Posgrado,Bajo,No,Efectivo,59,148.22293945167218,1
+Madrid,CP0051,Universidad,Alto,No,Efectivo,29,108.70313447462811,1
+Valencia,CP0079,Universidad,Medio,Si,Tarjeta,66,55.660015618787924,1
+Madrid,CP0049,Bachillerato,Muy alto,Si,,53,119.28345739992673,1
+Barcelona,CP0007,Universidad,Alto,No,Tarjeta,19,367.4103665873532,0
+Barcelona,CP0084,Posgrado,Bajo,No,Tarjeta,28,159.63735620551233,1
+Madrid,CP0000,Universidad,Bajo,Si,Tarjeta,56,260.87081455467944,1
+Barcelona,CP0007,Primaria,Medio,No,Transferencia,51,316.08551701546014,1
+Madrid,CP0028,Universidad,Bajo,No,PayPal,43,449.0784062742232,1
+Madrid,CP0095,Primaria,Muy bajo,No,PayPal,35,449.98479427703876,1
+Bilbao,CP0004,Secundaria,Muy alto,No,PayPal,38,385.58018015661156,1
+Barcelona,CP0085,Primaria,Alto,Si,,53,65.82064642182564,0
+Sevilla,CP0046,Universidad,Muy alto,Si,Transferencia,57,308.7816885884367,0
+Madrid,CP0033,Universidad,Medio,No,Tarjeta,69,403.96256187417794,1
+Valencia,CP0064,Secundaria,Alto,No,,63,57.77962014351344,0
+Sevilla,CP0054,Bachillerato,Alto,No,Tarjeta,61,297.35807614546025,0
+Valencia,CP0089,Bachillerato,,No,Tarjeta,39,435.99386560371323,0
+Barcelona,CP0042,Bachillerato,Medio,Si,Transferencia,47,263.3459341290201,0
+Barcelona,CP0073,Secundaria,Bajo,No,Tarjeta,67,51.84779130385181,1
+Barcelona,CP0029,Bachillerato,Muy bajo,Si,Tarjeta,60,54.956011251023355,0
+Bilbao,CP0081,Universidad,Muy bajo,No,PayPal,47,237.48621683618774,1
+Sevilla,CP0016,Primaria,,No,Tarjeta,25,119.75390033753955,1
+Bilbao,CP0025,Primaria,Muy alto,No,Tarjeta,51,349.0027956919668,0
+Madrid,CP0007,Bachillerato,Muy alto,No,PayPal,64,368.9596692077693,1
+Valencia,CP0046,Posgrado,Muy bajo,No,Efectivo,26,130.04590795728285,0
+Bilbao,CP0075,Universidad,Bajo,No,Efectivo,68,449.8399798360182,0
+Madrid,CP0090,Universidad,Alto,No,Tarjeta,37,248.85853024051664,1
+Madrid,CP0071,Bachillerato,Muy alto,Si,Tarjeta,57,114.28065841636568,1
+Valencia,CP0088,Universidad,Bajo,Si,PayPal,42,393.91321913122795,1
+Valencia,CP0045,Primaria,Medio,Si,Efectivo,36,405.48852500754776,1
+Sevilla,CP0067,Universidad,Muy alto,Si,Efectivo,22,337.68296269945586,0
+Madrid,CP0032,Posgrado,Alto,No,Tarjeta,28,434.0594989411489,0
+Sevilla,CP0000,Universidad,Medio,No,Tarjeta,32,381.81783741380207,1
+Madrid,CP0018,Universidad,Medio,No,PayPal,25,446.9925817521458,1
+Madrid,CP0030,Universidad,Alto,Si,Tarjeta,36,245.24962181846576,1
+Madrid,CP0079,Secundaria,Muy alto,No,Efectivo,40,386.4187076447491,1
+Sevilla,CP0013,Posgrado,Muy bajo,No,Tarjeta,44,499.88820354306995,0
+Valencia,CP0052,Primaria,Alto,No,Efectivo,57,376.21903888382866,1
+Barcelona,CP0047,Bachillerato,Alto,No,PayPal,49,101.38270110670948,0
+Barcelona,CP0068,Secundaria,Alto,No,Efectivo,43,283.2434250931324,0
+Sevilla,CP0089,Primaria,Medio,Si,Tarjeta,44,314.30650605936256,0
+Barcelona,CP0061,Bachillerato,Bajo,Si,,36,128.39480378212596,1
+Sevilla,CP0091,Secundaria,Muy bajo,No,Transferencia,67,483.3012353801169,0
+Barcelona,CP0065,Bachillerato,Muy alto,No,Tarjeta,59,129.01089993557733,0
+Barcelona,CP0063,Universidad,Muy alto,No,PayPal,46,129.90106387095022,0
+Barcelona,CP0069,Primaria,Bajo,Si,Efectivo,56,461.82521208854973,0
+Barcelona,CP0062,Secundaria,Alto,No,,58,259.34244490475197,0
+Valencia,CP0072,Universidad,Muy bajo,No,Efectivo,50,78.43472567353228,1
+Barcelona,CP0032,Bachillerato,Muy alto,No,Tarjeta,36,319.1843749723379,1
+Madrid,CP0040,Universidad,Muy alto,Si,Tarjeta,54,320.8218568848715,1
+Sevilla,CP0088,Universidad,Alto,Si,Tarjeta,36,79.02534140895281,0
+Barcelona,CP0047,Universidad,Bajo,No,PayPal,50,487.6351230351479,0
+Barcelona,CP0012,Universidad,,No,Transferencia,64,294.813484382559,0
+Bilbao,CP0072,Bachillerato,Bajo,Si,Efectivo,33,301.9080749808939,1
+Valencia,CP0076,Universidad,Bajo,Si,Tarjeta,40,284.0519365260775,0
+Madrid,CP0030,Secundaria,Muy bajo,No,Tarjeta,24,324.829300840079,0
+Bilbao,CP0074,Bachillerato,Muy bajo,No,Transferencia,43,168.93488874818973,0
+Valencia,CP0067,Universidad,Muy alto,No,Tarjeta,49,179.25860658867836,1
+Barcelona,CP0097,Bachillerato,Muy alto,No,Tarjeta,29,280.10259040825974,0
+Madrid,CP0003,Universidad,Muy bajo,No,Efectivo,25,413.00863464361083,0
+Sevilla,CP0018,Universidad,Medio,Si,Tarjeta,22,72.43905942238048,1
+Valencia,CP0069,Universidad,Muy alto,No,Tarjeta,59,321.5318954991107,0
+Barcelona,CP0097,Posgrado,Medio,No,Tarjeta,45,413.0501641278413,1
+Sevilla,CP0081,Bachillerato,Muy bajo,No,Tarjeta,22,120.61277241675222,0
+Sevilla,CP0012,Bachillerato,Muy alto,No,PayPal,66,56.760143891254835,0
+Madrid,CP0022,Universidad,Bajo,Si,Tarjeta,43,190.72098281365612,1
+Barcelona,CP0082,Bachillerato,Muy bajo,Si,Tarjeta,22,314.66466802831917,1
+Madrid,CP0074,Universidad,,No,Tarjeta,39,112.22742803213647,0
+Valencia,CP0000,Universidad,Medio,Si,Transferencia,32,241.75506693761847,1
+Madrid,CP0087,Universidad,Muy bajo,Si,Tarjeta,30,298.54467381842505,1
+Valencia,CP0053,Bachillerato,Muy bajo,No,Efectivo,45,319.4973926407927,0
+Sevilla,CP0070,Secundaria,Muy alto,No,Tarjeta,50,173.48527445016882,1
+Sevilla,CP0088,Bachillerato,Muy alto,No,Tarjeta,60,230.01333619383112,1
+Barcelona,CP0084,Secundaria,Muy alto,No,Tarjeta,40,400.25265308040144,1
+Sevilla,CP0014,Universidad,Alto,No,Transferencia,50,473.5466123543085,0
+Madrid,CP0064,Bachillerato,Muy alto,No,PayPal,60,437.84614900321577,1
+Sevilla,CP0075,Secundaria,Muy bajo,No,Tarjeta,35,303.9275757800443,0
+Madrid,CP0070,Primaria,Muy alto,No,Efectivo,67,234.63176132477594,1
+Barcelona,CP0014,Universidad,Bajo,No,PayPal,47,199.8304764671382,1
+Sevilla,CP0020,Universidad,Muy alto,No,Tarjeta,43,106.23045473780813,0
+Madrid,CP0018,Bachillerato,Alto,No,Transferencia,33,97.94806124725085,0
+Madrid,CP0059,Primaria,Bajo,No,Tarjeta,30,359.760931211146,0
+Valencia,CP0092,Bachillerato,Muy bajo,No,PayPal,56,166.90748727702217,1
+Valencia,CP0088,Bachillerato,Muy bajo,Si,Transferencia,50,164.59775889460104,1
+Valencia,CP0032,Universidad,Medio,No,PayPal,43,499.1877745150035,0
+Valencia,CP0048,Universidad,Bajo,Si,Efectivo,65,134.56668104320795,1
+Barcelona,CP0095,Bachillerato,Medio,No,Tarjeta,18,116.62689176997334,1
+Madrid,CP0034,Secundaria,Bajo,No,PayPal,66,94.40835249196428,1
+Barcelona,CP0043,Posgrado,Bajo,No,,55,310.9124053250583,0
+Madrid,CP0089,Bachillerato,Alto,No,Tarjeta,19,332.53872170094564,1
+Bilbao,CP0010,Universidad,Medio,No,,66,214.35256681559687,0
+Valencia,CP0098,Secundaria,Alto,No,Transferencia,23,290.9360009801605,0
+Barcelona,CP0071,Bachillerato,Bajo,No,PayPal,63,404.77978892521065,0
+Barcelona,CP0077,Primaria,Muy bajo,No,Tarjeta,67,418.14687574478677,0
+Bilbao,CP0073,Bachillerato,Bajo,Si,Transferencia,55,481.06043407204174,1
+Madrid,CP0065,Posgrado,Alto,Si,Transferencia,59,420.92059366529355,1
+Valencia,CP0045,Bachillerato,Medio,Si,Tarjeta,41,304.178646522842,0
+Barcelona,CP0008,Primaria,Medio,No,Tarjeta,35,130.8456346265807,1
+Valencia,CP0002,Primaria,Alto,No,Tarjeta,44,94.89360096627908,0
+Madrid,CP0084,Bachillerato,,No,Tarjeta,58,74.53035045988665,0
+Sevilla,CP0025,Secundaria,Muy alto,Si,,25,349.93662430342266,1
+Bilbao,CP0071,Primaria,Muy bajo,Si,Efectivo,45,413.3913149290969,1
+Valencia,CP0047,Universidad,Muy bajo,No,Transferencia,27,278.90777780783554,1
+Valencia,CP0065,Bachillerato,Muy bajo,Si,PayPal,34,74.62137867513798,0
+Bilbao,CP0069,Secundaria,Medio,No,Tarjeta,46,290.96175856610216,0
+Valencia,CP0027,Posgrado,Medio,No,,23,471.0871676860477,0
+Madrid,CP0092,Secundaria,Bajo,No,Tarjeta,31,318.9259359196072,1
+Valencia,CP0025,Posgrado,Bajo,Si,PayPal,39,414.2423698082667,0
+Valencia,CP0024,Bachillerato,Muy bajo,Si,Tarjeta,23,410.0686917762878,0
+Barcelona,CP0011,Universidad,Muy alto,Si,PayPal,43,469.45809490129375,1
+Valencia,CP0004,Universidad,Bajo,No,Tarjeta,56,396.60294454244297,0
+Bilbao,CP0097,Universidad,,No,Tarjeta,29,386.4652313058903,0
+Bilbao,CP0047,Posgrado,Medio,Si,Transferencia,52,155.34619923678827,0
+Barcelona,CP0036,Secundaria,,No,Tarjeta,31,76.96631989448665,0
+Madrid,CP0078,Posgrado,Muy bajo,No,Efectivo,39,282.91975927421345,1
+Bilbao,CP0043,Bachillerato,Bajo,Si,Tarjeta,68,105.99539357603985,1
+Sevilla,CP0099,Bachillerato,Muy alto,No,Transferencia,40,482.9881443250961,1
+Madrid,CP0014,Bachillerato,Muy alto,No,Tarjeta,65,180.46614318486286,1
+Bilbao,CP0042,Bachillerato,Muy bajo,Si,Tarjeta,24,433.8248915229319,1
+Sevilla,CP0047,Secundaria,Muy alto,No,Tarjeta,57,224.4310813411067,0
+Barcelona,CP0086,Universidad,Muy alto,No,Tarjeta,67,195.43741243581985,1
+Valencia,CP0069,Bachillerato,Muy alto,No,Tarjeta,42,470.8213575694795,0
+Barcelona,CP0045,Universidad,Bajo,No,Tarjeta,30,213.4951574388008,0
+Madrid,CP0042,Universidad,Muy bajo,No,Tarjeta,38,225.6295588984114,1
+Barcelona,CP0020,Bachillerato,Muy alto,No,Tarjeta,58,97.74130082580913,0
+Sevilla,CP0022,Bachillerato,Muy alto,No,Efectivo,27,351.70099937712916,0
+Madrid,CP0079,Secundaria,Bajo,No,PayPal,26,179.97773651488106,1
+Barcelona,CP0046,Secundaria,Muy bajo,No,Tarjeta,32,313.52187552777826,0
+Barcelona,CP0014,Primaria,Medio,Si,Efectivo,69,316.10826682394423,1
+Barcelona,CP0024,Bachillerato,Bajo,No,Efectivo,19,373.6398630180952,0
+Bilbao,CP0035,Secundaria,Muy bajo,No,Tarjeta,42,385.35866877759855,1
+Barcelona,CP0074,Posgrado,Muy alto,No,Transferencia,30,281.50359548069275,0
+Barcelona,CP0050,Universidad,Muy bajo,No,Tarjeta,51,198.94637642153134,0
+Valencia,CP0014,Bachillerato,Muy bajo,Si,Efectivo,68,426.8529026756303,1
+Barcelona,CP0067,Universidad,Muy bajo,No,Tarjeta,51,189.43954223381812,0
+Madrid,CP0020,Secundaria,Medio,Si,Efectivo,52,278.37909251119913,1
+Barcelona,CP0012,Bachillerato,Muy bajo,No,Efectivo,55,230.56366244167762,0
+Madrid,CP0085,Universidad,Medio,No,Tarjeta,20,434.78527368635963,1
+Madrid,CP0018,Bachillerato,Muy alto,No,Tarjeta,59,244.36333901562296,0
+Barcelona,CP0033,Bachillerato,Medio,No,,23,223.74463497686793,1
+Barcelona,CP0077,Posgrado,Muy alto,No,Tarjeta,65,360.42066180393687,0
+Bilbao,CP0067,Universidad,Muy alto,No,Efectivo,66,321.09849943764925,1
+Barcelona,CP0051,Universidad,Medio,No,PayPal,36,98.26107507313074,1
+Valencia,CP0026,Universidad,Bajo,No,Transferencia,20,278.67596285478345,0
+Valencia,CP0028,Universidad,Alto,No,Efectivo,35,380.96527474996145,1
+Madrid,CP0027,Secundaria,Muy bajo,Si,Transferencia,56,496.43364406611033,1
+Valencia,CP0034,Bachillerato,Alto,Si,PayPal,26,333.1160752866436,0
+Madrid,CP0007,Primaria,Muy bajo,No,Tarjeta,69,216.63187989859298,1
+Bilbao,CP0015,Bachillerato,Muy bajo,No,Tarjeta,29,151.7682199109533,1
+Madrid,CP0035,Bachillerato,Muy alto,No,Tarjeta,22,442.77360536899414,1
+Barcelona,CP0029,Secundaria,Muy bajo,Si,,20,416.55434545107624,0
+Madrid,CP0017,Posgrado,Muy bajo,No,Efectivo,28,155.2652693507232,1
+Bilbao,CP0001,Posgrado,Medio,No,Tarjeta,47,140.28444056595805,0
+Barcelona,CP0048,Universidad,Alto,Si,PayPal,21,371.811549565029,1
+Valencia,CP0076,Bachillerato,Medio,No,Tarjeta,22,191.72842786344177,0
+Madrid,CP0003,Universidad,Muy bajo,No,Tarjeta,18,187.87945926288103,0
+Valencia,CP0089,Secundaria,Muy alto,No,Efectivo,44,118.53061118044486,1
+Madrid,CP0088,Universidad,Medio,No,Tarjeta,45,168.78898386942348,1
+Sevilla,CP0093,Secundaria,Medio,No,PayPal,46,242.3784009166923,0
+Madrid,CP0074,Universidad,Bajo,Si,Tarjeta,35,379.777251772587,1
+Madrid,CP0006,Secundaria,Muy bajo,No,Transferencia,29,201.33864248618738,1
+Madrid,CP0094,Universidad,Muy alto,No,Efectivo,30,197.87195276592922,1
+Barcelona,CP0073,Posgrado,Medio,No,Tarjeta,58,178.21096364859613,0
+Valencia,CP0038,Secundaria,Medio,No,PayPal,19,265.22765037996936,1
+Madrid,CP0012,Bachillerato,,No,Efectivo,54,131.2865140735919,1
+Sevilla,CP0030,Posgrado,Muy bajo,No,Tarjeta,62,268.5338303144565,1
+Barcelona,CP0070,Bachillerato,Bajo,Si,Tarjeta,33,366.87900028761044,1
+Barcelona,CP0062,Universidad,Medio,No,PayPal,65,63.40572681467998,1
+Barcelona,CP0055,Universidad,Bajo,No,Tarjeta,41,54.40072113759284,0
+Barcelona,CP0041,Bachillerato,,No,Tarjeta,52,83.80530956952916,1
+Valencia,CP0060,Secundaria,Muy bajo,No,Tarjeta,39,291.04702777765044,0
+Madrid,CP0041,Secundaria,Alto,Si,Tarjeta,53,434.50478743343155,1
+Madrid,CP0055,Universidad,Alto,No,Transferencia,28,52.19800970911337,1
+Sevilla,CP0035,Bachillerato,Alto,No,Tarjeta,63,471.49758706310644,0
+Bilbao,CP0083,Bachillerato,Muy bajo,No,Tarjeta,46,97.82533020674111,0
+Barcelona,CP0067,Bachillerato,Muy bajo,No,,52,428.8925876262018,0
+Madrid,CP0006,Universidad,Muy alto,No,Tarjeta,65,267.28464424232607,1
+Valencia,CP0053,Universidad,Bajo,Si,PayPal,32,346.7108242754798,1
+Barcelona,CP0000,Posgrado,Bajo,No,Tarjeta,48,279.8073430012321,0
+Madrid,CP0043,Bachillerato,Muy alto,Si,PayPal,59,264.6717013307096,1
+Madrid,CP0044,Universidad,Muy alto,No,Tarjeta,58,425.7047427639762,1
+Valencia,CP0046,Universidad,Alto,Si,Tarjeta,60,390.14887080551733,0
+Valencia,CP0012,Universidad,Muy alto,Si,PayPal,33,267.53100643535186,1
+Madrid,CP0021,Posgrado,Medio,No,Tarjeta,27,100.23616822822771,0
+Madrid,CP0020,Secundaria,Bajo,No,Transferencia,66,101.93133169148366,0
+Madrid,CP0085,Secundaria,Muy alto,No,PayPal,49,410.692757323584,1
+Valencia,CP0091,Universidad,Medio,No,Tarjeta,68,288.22577960639006,1
+Madrid,CP0008,Bachillerato,Medio,No,Tarjeta,19,266.7151130987132,1
+Madrid,CP0025,Universidad,Medio,No,Transferencia,41,356.25507861232177,1
+Sevilla,CP0008,Universidad,Medio,No,Tarjeta,40,436.47871253641716,0
+Madrid,CP0014,Primaria,Alto,Si,Tarjeta,19,332.99291498598734,0
+Valencia,CP0009,Universidad,Medio,No,Tarjeta,55,393.2815560559156,0
+Madrid,CP0087,Bachillerato,Alto,No,Tarjeta,48,394.37173585263065,1
+Madrid,CP0041,Bachillerato,Alto,No,Transferencia,68,210.31765195683158,1
+Madrid,CP0071,Universidad,Medio,Si,Tarjeta,57,173.33743803844806,1
+Valencia,CP0023,Posgrado,Bajo,Si,Tarjeta,43,410.5238302288214,0
+Sevilla,CP0079,Primaria,Medio,Si,,46,219.73045630290957,1
+Sevilla,CP0048,Bachillerato,Medio,No,Tarjeta,20,456.50120293521735,0
+Barcelona,CP0025,Universidad,Medio,No,Tarjeta,31,81.36081352855383,0
+Valencia,CP0090,Universidad,Bajo,Si,Transferencia,42,76.19788043390284,0
+Madrid,CP0036,Universidad,,No,Tarjeta,65,467.15187204563375,1
+Madrid,CP0067,Secundaria,Muy bajo,No,Transferencia,18,341.8047113816457,0
+Sevilla,CP0049,Secundaria,Alto,No,PayPal,20,220.81971040174955,0
+Madrid,CP0023,Bachillerato,,No,Tarjeta,43,389.77718666728225,0
+Madrid,CP0018,Universidad,Bajo,Si,Efectivo,35,352.54706449713854,1
+Madrid,CP0099,Secundaria,Muy alto,No,Tarjeta,26,289.0404710688183,1
+Madrid,CP0059,Secundaria,Muy bajo,No,Tarjeta,55,94.4930041981931,0
+Madrid,CP0038,Posgrado,Alto,No,PayPal,40,415.48081428173816,1
+Valencia,CP0073,Primaria,Muy bajo,No,PayPal,38,439.7104358062811,0
+Barcelona,CP0088,Posgrado,Bajo,Si,Tarjeta,18,127.4759098486921,0
+Sevilla,CP0017,Universidad,Bajo,No,Efectivo,38,432.73024338968,1
+Sevilla,CP0018,Universidad,Muy alto,Si,PayPal,44,445.0312899574539,1
+Barcelona,CP0035,Secundaria,Muy alto,No,PayPal,59,297.2428755298322,1
+Madrid,CP0073,Primaria,Bajo,No,Efectivo,23,345.28056630020916,0
+Barcelona,CP0096,Universidad,Alto,Si,Tarjeta,61,222.00679400652112,1
+Valencia,CP0054,Universidad,Muy bajo,No,Tarjeta,53,176.8062413791697,0
+Madrid,CP0068,Universidad,Medio,Si,PayPal,45,374.89241612824014,1
+Valencia,CP0046,Secundaria,Muy alto,No,Tarjeta,62,437.8438170571137,1
+Barcelona,CP0048,Universidad,Medio,No,Efectivo,34,344.3348988300864,0
+Valencia,CP0098,Universidad,Alto,No,Tarjeta,57,280.21577479094714,1
+Barcelona,CP0097,Universidad,Muy alto,No,Tarjeta,69,121.5161450798772,0
+Madrid,CP0032,Universidad,Medio,No,Tarjeta,20,74.05642067216817,1
+Bilbao,CP0020,Universidad,Alto,No,PayPal,29,250.5613056110359,1
+Sevilla,CP0080,Universidad,Muy bajo,No,Tarjeta,56,72.20730366383957,1
+Madrid,CP0021,Primaria,Alto,No,Efectivo,29,306.2005843582513,1
+Sevilla,CP0047,Bachillerato,Muy alto,Si,Tarjeta,19,222.22813609299706,0
+Barcelona,CP0036,Primaria,Bajo,No,Tarjeta,63,390.73510385688627,0
+Sevilla,CP0014,Bachillerato,Muy bajo,Si,Tarjeta,39,187.54182357628255,1
+Sevilla,CP0034,Bachillerato,Medio,No,Efectivo,40,316.84221543534443,0
+Barcelona,CP0091,Primaria,Muy alto,Si,Tarjeta,47,291.9575847897952,1
+Madrid,CP0070,Bachillerato,Bajo,Si,Tarjeta,22,52.12059148500852,1
+Madrid,CP0031,Secundaria,Alto,No,Tarjeta,26,82.57522921893965,1
+Barcelona,CP0010,Universidad,Bajo,No,Tarjeta,38,180.66569561870924,0
+Valencia,CP0009,Posgrado,Muy alto,No,PayPal,28,447.0057864593443,0
+Madrid,CP0072,Primaria,Muy alto,Si,PayPal,22,116.15672970490036,0
+Madrid,CP0077,Posgrado,Bajo,No,Tarjeta,52,369.9024487072437,0
+Sevilla,CP0076,Bachillerato,Alto,No,Efectivo,44,488.0149547685293,0
+Bilbao,CP0056,Secundaria,Bajo,No,PayPal,66,405.75539871101984,0
+Barcelona,CP0024,Primaria,Muy alto,Si,Tarjeta,19,159.32541275916978,1
+Madrid,CP0001,Bachillerato,Muy alto,No,Transferencia,41,458.7643671858867,1
+Madrid,CP0063,Universidad,Medio,Si,PayPal,48,91.89822042877553,1
+Madrid,CP0034,Universidad,Medio,No,Tarjeta,50,260.6638738418311,0
+Bilbao,CP0006,Primaria,Muy bajo,No,Tarjeta,56,449.3938584768862,0
+Madrid,CP0084,Primaria,Muy alto,No,PayPal,47,338.5695691655914,0
+Valencia,CP0017,Bachillerato,Medio,No,Efectivo,63,236.14005412746448,0
+Madrid,CP0066,Secundaria,,No,Tarjeta,54,181.76579003172594,0
+Valencia,CP0041,Secundaria,Alto,No,Tarjeta,68,218.79473239325748,1
+Valencia,CP0038,Secundaria,Bajo,No,Tarjeta,45,279.0238014541788,0
+Sevilla,CP0040,Universidad,Alto,No,Efectivo,48,193.56976844276332,0
+Madrid,CP0074,Posgrado,Medio,No,Transferencia,28,486.03553793703486,1
+Madrid,CP0023,Bachillerato,,No,PayPal,40,469.8849438797653,0
+Madrid,CP0059,Posgrado,Bajo,No,Tarjeta,19,441.80216069644433,0
+Bilbao,CP0045,Bachillerato,Bajo,No,Efectivo,57,239.82342598519404,1
+Sevilla,CP0018,Bachillerato,Bajo,No,Efectivo,58,361.085796200853,1
+Valencia,CP0067,Secundaria,Alto,No,Tarjeta,44,456.27318816618407,0
+Valencia,CP0089,Universidad,Medio,Si,Tarjeta,52,432.6932694555176,1
+Valencia,CP0041,Posgrado,Bajo,No,PayPal,19,236.44715630909346,0
+Madrid,CP0031,Universidad,Bajo,No,,56,100.57372219501733,1
+Bilbao,CP0038,Bachillerato,Muy bajo,Si,Tarjeta,54,84.03366372554726,1
+Barcelona,CP0035,Universidad,Muy bajo,Si,Efectivo,38,309.6788203515662,1
+Barcelona,CP0096,Secundaria,Medio,No,Tarjeta,22,339.1825708449192,1
+Barcelona,CP0035,Universidad,Medio,No,Efectivo,69,432.4291720686608,1
+Madrid,CP0002,Bachillerato,Muy alto,No,Efectivo,62,181.63175915346397,0
+Madrid,CP0072,Bachillerato,Muy bajo,Si,Efectivo,38,125.36172074751912,1
+Valencia,CP0007,Universidad,Muy alto,No,PayPal,46,220.55262493018975,1
+Madrid,CP0096,Universidad,Alto,Si,Efectivo,37,209.10880563452378,1
+Valencia,CP0069,Primaria,Muy alto,No,Tarjeta,55,109.61102930803463,1
+Madrid,CP0040,Universidad,Bajo,Si,Transferencia,37,352.5271936309185,1
+Barcelona,CP0067,Secundaria,Muy alto,Si,Tarjeta,67,278.91137332821916,1
+Madrid,CP0012,Universidad,Medio,Si,Tarjeta,42,374.5052402516448,1
+Barcelona,CP0048,Universidad,Alto,No,Tarjeta,19,208.71100407638062,1
+Valencia,CP0059,Universidad,Bajo,Si,Tarjeta,49,196.56599520996602,1
+Madrid,CP0001,Universidad,Muy alto,No,Transferencia,43,262.659133869735,1
+Valencia,CP0059,Bachillerato,Alto,No,Tarjeta,23,444.83330542781613,0
+Barcelona,CP0004,Secundaria,Alto,No,Transferencia,58,68.12658803029115,0
+Valencia,CP0043,Universidad,Bajo,No,Efectivo,20,412.17476778341245,1
+Bilbao,CP0026,Secundaria,Muy alto,No,Tarjeta,50,216.0444256959904,0
+Valencia,CP0031,Bachillerato,Alto,Si,Transferencia,18,434.578561604815,1
+Madrid,CP0020,Secundaria,Alto,No,Tarjeta,68,410.99135397613543,0
+Madrid,CP0007,Secundaria,Muy bajo,Si,Tarjeta,22,206.94256132823978,0
+Madrid,CP0071,Universidad,Alto,Si,Efectivo,30,362.2444408947272,1
+Valencia,CP0049,Primaria,Muy bajo,No,Tarjeta,36,121.83474054804806,0
+Madrid,CP0066,Universidad,Muy alto,No,Tarjeta,29,453.3266984737046,0
+Barcelona,CP0043,Bachillerato,Muy alto,No,Efectivo,65,232.02097900335923,0
+Valencia,CP0057,Primaria,Muy alto,No,Efectivo,42,255.0315269098401,1
+Barcelona,CP0002,Bachillerato,Medio,No,Tarjeta,68,367.5915729666432,1
+Sevilla,CP0085,Primaria,Muy alto,Si,PayPal,52,419.3781065171829,0
+Madrid,CP0069,Secundaria,Alto,Si,Efectivo,29,156.35423449769434,1
+Madrid,CP0001,Universidad,Bajo,Si,PayPal,47,347.60756294464795,1
+Valencia,CP0086,Primaria,Muy bajo,Si,Tarjeta,22,226.39911975011682,1
+Barcelona,CP0043,Universidad,Medio,No,Efectivo,51,215.9163158017826,0
+Valencia,CP0001,Primaria,Muy alto,No,PayPal,39,360.5116207732946,1
+Barcelona,CP0080,Secundaria,Muy alto,Si,Efectivo,56,224.23247337017045,1
+Madrid,CP0034,Universidad,Bajo,No,Transferencia,30,205.74882507398343,1
+Sevilla,CP0097,Bachillerato,Bajo,No,Tarjeta,64,426.1497836568091,0
+Sevilla,CP0086,Secundaria,Medio,Si,Tarjeta,20,95.57425572395286,1
+Valencia,CP0029,Bachillerato,Muy bajo,Si,Tarjeta,37,354.1516802735948,0
+Madrid,CP0007,Secundaria,Muy alto,Si,,48,161.92642720578107,1
+Valencia,CP0021,Universidad,Medio,Si,PayPal,22,56.97420882178564,1
+Barcelona,CP0043,Bachillerato,Alto,Si,Tarjeta,41,125.0439209927114,0
+Madrid,CP0057,Universidad,Alto,No,PayPal,57,322.9976883991405,1
+Bilbao,CP0035,Universidad,Medio,Si,PayPal,50,369.1072361686718,1
+Madrid,CP0068,Bachillerato,Muy alto,No,Tarjeta,25,59.47600260034402,1
+Bilbao,CP0076,Posgrado,,No,Tarjeta,41,66.39144948577407,0
+Barcelona,CP0092,Bachillerato,Muy alto,No,PayPal,67,456.1439516793289,0
